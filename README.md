@@ -1,2 +1,2 @@
-# war_and_home
+# War and Home
 War and Home campaign for wesnoth
