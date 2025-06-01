@@ -1,0 +1,10 @@
+Origin of the artworks:
+
+Unless stated otherwise, every picture comes from the Battle for Wesnoth (before 1.14) and is thus licensed under GPL v2 or later.
+
+The following artworks are derivatives of Battle for Wesnoth (before 1.14) artwork and fall under GPL v2 or later.
+images/portraits/princess_lv_2.png
+images/portraits/princess_lv_3.png
+images/portraits/princess_lv_4.png
+images/portraits/mornchild.png
+images/title.png

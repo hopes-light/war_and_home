@@ -1,0 +1,752 @@
+--------------------------------------------------------------------------------
+|                                !!!WARNING!!!                                 |
+--------------------------------------------------------------------------------
+
+    This is the storyboard, mostly to give an idea to anyone who is interested
+    about how I intend the campaign to go, it obviously contains each and every
+    spoiler imaginable, read at your own risk (it's below, just a bunch of space
+    in case someone opened this accidently).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Here goes...
+
+--------------------------------------------------------------------------------
+|                                 Part I path                                  |
+--------------------------------------------------------------------------------
+
+    Scenario 01:
+        Title: A Practice Bout
+        Difficulty: Easy
+        Starting Leaders: MC, CF
+        Loyal Units: None
+        Allied Leaders: HG1, HG2
+        Enemy Leaders: NB, NG
+        Objectives-Victory: Death Enemy Leaders
+        Objectives-Loss: Death MC
+        Terrain: Small map, courtyard/training ground
+            (dirt, grass, dirt road, paved road, sand, forest)
+        Description: Practice bout at the academy in front of HG1, HG2
+        Intro: Intro MC, CF, NB, NG, time/loc and enmity
+        Beginning: NB haughty towards MC, CF
+        End: NB and NG start appreciating MC and a little CF
+
+    Scenario 02:
+        Title: Port Assignment
+        Difficulty: Hard
+        Starting Leaders: MC, CF
+        Loyal Units: NB, NG
+        Allied Leaders: None
+        Enemy Leaders: BL1, BL2, BL3
+        Objectives-Victory: Death BL1, BL2, BL3 or Survive
+        Objectives-Loss: Death MC, CF, Loyals
+        Terrain: Small port/town (water, bridge, road (paved/dirt),
+            light forest)
+        Description: Posted in port town, defend until main force arrive
+        Intro: MC, CF, NB, NG got closer and closer, assigned to port
+        Beginning: Banter, prepare fight against bandits
+        End: Arrival of HG2 and forces, gives order to move out, banter
+
+    Scenario 03:
+        Title: Road to Lintanir
+        Difficulty: Easy
+        Starting Leaders: MC, CF
+        Loyal Units: NB, NG
+        Allied Leaders: HG2
+        Enemy Leaders: OL1, OL2, OL3
+        Objectives-Victory: Death Enemy Leaders
+        Objectives-Loss: Death MC, Allies, Loyals
+        Terrain: Small valley (water, grass, road, forest), hill, mountains
+        Description: Ambushed, break through before main enemy force arrives
+        Intro: Conversation HG2, MC, CF
+        Beginning: Banter MC, CF, NB, NG, ambush orcs, prepare battle
+        End: Speed towards Lintanir
+
+    Scenario 04:
+        Title: A City Besieged
+        Difficulty: Hard
+        Starting Leaders: MC, CF
+        Loyal Units: NB, NG
+        Allied Leaders: HG2, EL1, EL2
+        Enemy Leaders: OL1, OL2, OL3
+        Terrain: Elven city (hills south, forest, village, road, castle)
+        Objectives-Victory: Link up with elves, defeat all enemy leaders
+        Objectives-Loss: Death MC, Loyals, CF, HG2
+        Description: Break the siege and reach the inner city
+        Intro: Disccussion about main enemy force not far behind
+        Beginning: Orcs spotted over ridge
+        Middle: Link up with elves, inform city overrun
+        End: CF sent north help druids, main forces push back north, MC
+            sent inside palace to rescue princess
+
+    Scenario 05:
+        Title: Evacuate
+        Difficulty: Easy
+        Starting Leaders: MC, EP (join mid-scenario)
+        Loyal Units: NB, NG, EN (join mid-scenario)
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Find princess and get her out, defeat OL1
+        Objectives-Loss: Death MC, NB, NG, EP, EN
+        Terrain: Inside (wood/stone floor/walls), courtyard (grass, water,
+            trees)
+        Description: Inside palace, find princess, help her out
+        Intro: None
+        Beginning: Conversation about palace in flame, finding princess
+        Middle: Find EP, EN, tell them evacuation and get to entrance
+            OL1 appears southwest with a few units
+        End: Palace burns, just got outside
+
+    Scenario 06: (Talk)
+        Title: The North's Fall
+        Terrain: Same as Scenario 04
+        Description: Arrival main orcish force, flight south
+        Intro: None
+        Beginning: Conversation about rescue with scenario 04 allies
+        Middle: Arrival enemy main force, evacuation order given,
+            EP asks where EA
+        End: HG2 die, evacuation
+
+    Scenario 07: (Maybe merge with 08)
+        Title: Flight through the Woods
+        Difficulty: Easy
+        Starting Leaders: MC, EP
+        Loyal Units: NB, NG, EN
+        Allied Leaders: None
+        Enemy Leaders: OL1, GL1
+        Objectives-Victory: Defeat enemy leaders
+        Objectives-Loss: Death leaders, loyals
+        Terrain: Forest, small rivers, ponds
+        Description: Run south and clear a path for civilians
+        Intro: Fleeing weighs heavy on everyone's hearts, hard for them
+        Beginning: EP, EN, NB unhappy retreat, MC says "civilians",
+            Enemies say kill all
+        End: Enemy coming behind, continue evacuation to mountains,
+            EP afraid for EA
+
+    Scenario 08: (Maybe merge with 07)
+        Title: Reaching the Mountains
+        Difficulty: Medium
+        Starting Leaders: MC, EP
+        Loyal Units: NB, NG, EN
+        Allied Leaders: None
+        Enemy Leaders: OL1, TL1
+        Objectives-Victory: Defeat TL1, reach signpost with EP
+        Objectives-Loss: Death leaders, loyals
+        Terrain: Forest north, plains middle, mountains/hills south
+        Description: Break through southern blocks and reach the mountains
+        Intro: Report on enemy movements
+        Beginning: Enemies say kill all
+        End: Mountains reached but enemies close
+
+    Scenario 09:
+        Title: Losing the Orcs
+        Difficulty: Hard
+        Starting Leaders: MC, EP
+        Loyal Units: NB, NG, EN
+        Allied Leaders: None
+        Enemy Leaders: OL1, BL1, DL1
+        Objectives-Victory: Defeat enemy leaders
+        Objectives-Loss: Death leaders, loyals
+        Terrain: Central lake, river west, valley around (grass) then forest
+            then mountains
+        Description: Beat the orcs to lose them, bandits and drakes
+        Intro: Reach river and hold the orcs there
+        Beginning: Talk about beating orcs here and then flee along river,
+            orcs, bandits agree to split profits (and steal from eachother
+            afterwards)
+        Middle: Drakes arrive and say death to all invaders
+        End: MC says he'll hold orcs here with troops because chokepoint,
+            rest leave
+
+    Scenario 10:
+        Title: Holding the Line
+        Difficulty: Irrelevant
+        Starting Leaders: MC
+        Loyal Units: NB
+        Allied Leaders: None
+        Enemy Leaders: OL1, OL2, TL1, GL1
+        Objectives-Victory: Hold as long as possible, until death MC, NB or
+            cut off (enemy through river)
+        Objectives-Loss: None
+        Terrain: Same as preceding
+        Description: MC holds orcs here
+        Intro: MC organizes with some troops
+        Beginning: NB comes back, banter
+        End: NB flees to inform on time left
+
+    Scenario 11:
+        Title: Mourn Later
+        Difficulty: Hard
+        Starting Leaders: EP, NG
+        Loyal Units: EN, NB
+        Allied Leaders: None
+        Enemy Leaders: DL1, OL1
+        Objectives-Victory: Beat DL1
+        Objectives-Loss: Death EP, NG, EN, NB
+        Terrain: River east-west-south, plains around, forest, mountains
+        Description: Flight along river to small bend
+        Intro: Really sad NG, EN nice to her
+        Beginning: BL1 says money, EP says death
+        Middle: NB arrives, says distance OL1, NG happy but NB says later
+        End: NG, NB hug, death MC, EN tries to comfort NG
+
+    ----------------------------- Side path choice -----------------------------
+
+    Scenario 12:
+        Title: Awaited Reunion
+        Difficulty: Easy
+        Starting Leaders: EP, NG, CF, EA
+        Loyal Units: EN, NB
+        Allied Leaders: None
+        Enemy Leaders: BL1, BL2, BL3
+        Objectives-Victory: Defeat enemy leaders
+        Objectives-Loss: Death leaders, loyals
+        Terrain: Same as port (scenario 02)
+        Description: Take back ruins of port from bandits,
+            CF, EA north, NG, EP east,
+        Intro: Talk about river crossing,
+        Beginning: Town overrun, CF, NG, NB reunion, EA, EP, EN reunion
+        End: Take back town, repair real boats
+
+    Scenario 13:
+        Title: Mourn Later
+        Difficulty: Hard
+        Starting Leaders: EP, CF
+        Loyal Units: NG, NB, EA, EN
+        Allied Leaders: None
+        Enemy Leaders: OL1, SL1, GL2
+        Objectives-Victory: Hold until end of turns, defeat enemy leaders
+        Objectives-Loss: Death leaders, loyals, fall port
+        Terrain: Same as preceding
+        Description: Hold town and port, defend until more boats arrive
+        Intro: Talk about what happened, death of MC, everyone cries,
+            couples comfort each other
+        Beginning: Boat sent out to request help from other side river
+            Enemies say kill all
+        Middle: Boats arrive, begin evacuation
+        End: Everyone evacuated, leave and burn town
+
+    Scenario 14: (Talk)
+        Title: Arrival and Warning
+        Terrain: Castle interior, inform king
+            Village birth MC, CF
+            Castle NB, NG
+        Description: Epilogue of part 1, inform HG1, inform King,
+            separate in couples
+        Intro: Meeting with HG1, then go to King
+        Beginning: Meeting HG1, CF, EP
+            NB, EP, elven refugee camp
+            NG, EN, NG family castle
+            CF, EA village CF, MC, see MC parents
+        End: Malin Keshar curses MC as instrument of orc-killing
+
+--------------------------------------------------------------------------------
+|                                 Lonely path                                  |
+--------------------------------------------------------------------------------
+
+    Scenario 01: (Talk)
+        Title: Morning in The Night
+        Terrain: Temple (pavement, stone walls...), valley, cave
+        Description: MC drags himself to temple for help, on fire,
+            everyone dead except WM, gets her out and in cave
+        Intro: MC says get inside temple, maybe help
+        Beginning: MC enters temple, everyone dead, sees WM unconscious,
+            gets her out, carries her to cave and falls unconscious
+        Middle: WM wakes up, sees someone in armour, panics and then calms down
+        End: WM heals MC as much as possible
+
+    Scenario 02:
+        Title: A Faint Hope
+        Difficulty: Easy
+        Starting Leaders: MC
+        Loyal Units: WM
+        Allied Leaders: None
+        Enemy Leaders: DL1
+        Objectives-Victory: Reach cave exit
+        Objectives-Loss: Death MC, WM
+        Terrain: Caves, chasms (starry one around sword)
+        Description: MC, WM push in caves, drakes searching because saw humans,
+            monsters and undead in caves, MC "fading"
+        Intro: Drakes start hunting humans within caves
+        Beginning: MC, WM start moving, MC starts fading
+        Middle: DL1 says stop hunting and guard entrance
+        End: Find sword, duel with spirit, then leave through opening
+
+    Scenario 03:
+        Title: Inhabited Caves
+        Difficulty: Hard
+        Starting Leaders: MC
+        Loyal Units: WM
+        Allied Leaders: KL1 (K for Khazalid)
+        Enemy Leaders: TL1, TL2
+        Objectives-Victory: Defeat TL1
+        Objectives-Loss: Death MC, WM, KL1
+        Terrain: Caves
+        Description: MC, WM, help cornered dwarf patrol escape TL1, TL2
+        Intro: 
+        Beginning: Spirit warns sustenance is temporary, encounter with KL1
+        End: KL1 agree to try and heal MC
+
+    Scenario 04: (Talk) (Maybe fuse with Scenario 05)
+        Title: Respite
+        Terrain: Cabin (woods)
+        Description: KL1 leads to cabin, saying his troops can't heal MC and
+            gets him in care of EM
+        Intro: Dwarvish healer says can't heal MC, WM freaking out, KL1 says
+            will bring MC to EM
+        Beginning: KL1, WM, MC arrive in cabin, EM receives them and starts
+            healing MC, WM hovering around
+        Middle: HR arrives, bringing food from forest for EM, sees them and
+            says he'll keep watch
+        End: HR explains to WM HR traveler and how EM plants trees to make this
+            valley grow back, how there was a big battle here once
+
+    Scenario 05:
+        Title: A Haven Assaulted
+        Difficulty: Hard
+        Starting Leaders: MC
+        Loyal Units: WM, HR
+        Allied Leaders: EM
+        Enemy Leaders: DL1
+        Objectives-Victory: Defeat DL1
+        Objectives-Loss: Death MC, WM, HR, EM
+        Terrain: Valley (river, trees, grass), mountains around, sand and rock
+            south
+        Description: Drakes attack valley because humans and elves walked around
+            (drakes didn't know EM there already)
+        Intro:
+        Beginning: DL1 says invaders stuff, HR replys were here before, DL1 says
+            liar
+        End: DL1 taken down, drakes run, MC says should head to Wesnoth, WM asks
+            if she can come, he says yes, HR says will tag along, that's where
+            someone he's searching for probably is
+    
+    Scenario 06: (Talk) (Maybe fuse with 05, with two bigmaps in part 2)
+        Title: Return to Wesnoth
+        Terrain: Weldyn (city + some interior)
+        Description: MC, WM, HR go back to Wesnoth, meet ES and human commanders
+            and head to Abez
+        Intro:
+        Beginning: Enter Weldyn, with elfish refugee camp near entrance, HR
+            meets ES, rejoice, mention who MC and WM are
+        End: Meet with some commander who says go reinforce Abez
+
+--------------------------------------------------------------------------------
+|                                  Side path                                   |
+--------------------------------------------------------------------------------
+
+    Scenario 01:
+        Title: Help the Shamans
+        Difficulty: Easy
+        Starting Leaders: CF, ES
+        Loyal Units: None
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Death OL1
+        Objectives-Loss: Death CF, ES
+        Terrain: Forest, small lakes
+        Description: CF goes north to help ES
+        Intro: CF advances north
+        Beginning: ES grumbles about EA not being there, OL1 says death
+        End: Conversation ES, CF, scout arrives and says EA in trouble
+
+    Scenario 02:
+        Title: Rescue the Scouts
+        Difficulty: Hard
+        Starting Leaders: CF, ES
+        Loyal Units: None
+        Allied Leaders: EA
+        Enemy Leaders: OL1, OL2, OL3
+        Objectives-Victory: Death OL1, OL2, OL3
+        Objectives-Loss: Death CF, ES, EA
+        Terrain: Forest, small lakes
+        Description: CF, ES go rescue EA who is surrounded
+        Intro: None
+        Beginning: EA monologues, OL1 says death, CF, ES arrive, ES comments on
+            daughter, gives CF ring to move faster
+        End: EA gets chided, informs that city fallen
+
+    Scenario 03:
+        Title Laying Low
+        Difficulty: Irrelevant
+        Starting Leaders: CF, ES
+        Loyal Units: EA
+        Allied Leaders: None
+        Enemy Leaders: None (random monsters, maybe spawn)
+        Objectives-Victory: Find enough food outside (kill boars) and clear cave
+        Objectives-Loss: Death CF, ES, EA
+        Description: Preparing to hole up in caves out of sight
+        Intro: CF, ES, EA converse next move, decide go hide in caves for now
+        Beginning: CF, ES, EA approach cave, distribute orders, EA told to stick
+            with CF to help his men
+        End: Talk about resting and hiding
+
+
+    Scenario 04: (Talk)
+        Title: A Brief Respite
+        Terrain: Cave from before
+        Description: Wasting time in the cave
+        Intro: Conversation about supplies
+        Beginning: CF makes rounds to check on his men and elves, EA follows,
+            seems impressed (but tries to hide it, though ES spots it, internal
+            dialogue)
+        End: EA decide to teach CF to move faster through terrain
+
+
+    Scenario 05:
+        Title: To the Harbour
+        Difficulty: Easy
+        Starting Leaders: CF, ES
+        Loyal Units: EA
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Death OL1
+        Objectives-Loss: Death CF, ES, EA
+        Terrain: Elven port, forest, river running southwest-northeast, docks
+        Description: Defeat OL1
+        Intro: CF, ES, EA next move discussion, decide get boats and head south
+            following river
+        Beginning: CF, ES discuss the plan, OL1 says sound alarm
+        End: ES says CF really moving faster, long training sessions were quite
+            useful, EA, CF blush, ES chuckles
+
+
+    Scenario 06:
+        Title: Pass Through
+        Difficulty: Hard
+        Starting Leaders: CF, ES
+        Loyal Units: EA
+        Allied Leaders: None
+        Enemy Leaders: OL1, OL2, OL3, OL4, OL5
+        Objectives-Victory: Death OL1, OL2, OL3, hold bridge for some time
+        Objectives-Loss: Death CF, ES, EA
+        Terrain: Elven bridge, river southwest through northeast, start one on
+            each shore, 
+        Description: Arrive at main bridge and ex-elven fortifications, take
+            them so boats can get through
+        Intro: CF, ES, EA talk about being on boats
+        Beginning: ES says need to take out bridge defenses so boats can get
+            through
+        End: CF say job done, get on the boats and go down river
+
+--------------------------------------------------------------------------------
+|                                Part II path                                  |
+--------------------------------------------------------------------------------
+
+    Scenario 01:
+        Title: Like Waves Upon the Rocks
+        Difficulty: Easy
+        Starting Leaders: MC, ES, HG1
+        Loyal Units: WM, HR
+        Allied Leaders: None
+        Enemy Leaders: OL1, OL2
+        Objectives-Victory: Defeat OL1 or OL2 / Hold
+        Objectives-Loss: Death, turns run out
+        Terrain: Ford of Abez, big river + ford middle, plains south and north
+        Description: MC, ES... reinforce HG1 at Abez from orcish assault
+        Intro: CF, EP gone west, Mc ordered go to Abez and help defend
+        Beginning: HG1 says hello, orcs say attack before MC can set up shop
+        Middle: None
+        End: Orcs rout, HR and ES talk about EA
+
+    Scenario 01x: (Path 1A) (Maybe cut)
+        Title: Push and Break
+        Difficulty: Hard
+        Starting Leaders: MC, ES, HG1
+        Loyal Units: WM, HR
+        Allied Leaders: EL1
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat enemy leader
+        Objectives-Loss: Death/Turns
+        Terrain: Forest northwest half, plains rest, few hills and water south
+        Description: MC co. pursue orcs and pincer them with EL1
+        Intro: None
+        Beginning: EL1 says happy orcs to kill, orcs say surrounded
+        Middle: None
+        End: EL1 compliments humans for having led orcs to death
+
+    Scenario 02:
+        Title: Battle of Carcyn
+        Difficulty: Easy
+        Starting Leaders: CF, NG, EP
+        Loyal Units: NB, EN, EA, AS
+        Allied Leaders: EL1
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain: Forest southeast, village east, water northeast
+        Description: Orcs attack Carcyn, elves help
+        Intro: Setup CF, NB, NG, EP...
+        Beginning: Orcs attack Carcyn, stop from reinforcing Elensefar
+            (maybe intro)
+        Middle: EL1, AS arrive, AS joins with EP
+        End: Orcs pushed back, AS comes with EP
+
+    Scenario 03:
+        Title: Break the Siege
+        Difficulty: Hard
+        Starting Leaders: CF, NG, EP
+        Loyal Units: NB, EN, EA, AS
+        Allied Leaders: HL1
+        Enemy Leaders: OL1, OL2
+        Objectives-Victory: Relieve Elensefar
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 04:
+        Title: Pincer and Kill
+        Difficulty: Easy
+        Starting Leaders: EP, CF, NG
+        Loyal Units: EA, NB, EN, AS
+        Allied Leaders: EL1, EL2
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 05a: (Path 1A)
+        Title: Flames over Glamdrol
+        Difficulty: Hard
+        Starting Leaders: CF, NG
+        Loyal Units: EA, NB
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 05b: (Path 1B)
+        Title: The Rock and the Hard Place
+        Difficulty: Easy
+        Starting Leaders: CF, MC, EP, ES
+        Loyal Units: EN, EA, NB, WM, HR, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 05x: (Path 1B) (Maybe cut)
+        Title: Cornered and Killed
+        Difficulty: Easy
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 06a: (Path 2A) (Maybe cut)
+        Title: Friendship's Might
+        Difficulty: Hard
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: KL1, HL1
+        Enemy Leaders: OL1, OL2
+        Objectives-Victory: Defeat OL1, OL2
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 07a: (Path 2A)
+        Title: Lifeless Lake
+        Difficulty: Easy
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: UL1
+        Objectives-Victory: Defeat UL1/Survive
+        Objectives-Loss: Death
+        Terrain:
+        Description: (Drake zombie apocalypse)
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 06b: (Path 2B) (Maybe cut)
+        Title: Break the Guard
+        Difficulty: Hard
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 07b: (Path 2B)
+        Title: This Land is Ours
+        Difficulty: Easy
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None (Human reinforcements from port every turn)
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 08:
+        Title: Nowhere to Flee
+        Difficulty: Hard
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: OL1
+        Objectives-Victory: Defeat every orc
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 09:
+        Title: Laid to Rest
+        Difficulty: Easy
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: UL1 (__ if died)
+        Objectives-Victory: Defeat UL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 10:
+        Title: A Final Effort
+        Difficulty: Hard
+        Starting Leaders: MC, CF, EP, ES
+        Loyal Units: EN, EA, NG, NB, HR, WM, HG1, AS
+        Allied Leaders: None
+        Enemy Leaders: OL1, OL2, OL3
+        Objectives-Victory: Defeat OL1
+        Objectives-Loss: Death/Turns
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 11: (Talk)
+        Title: Epilogue
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
+
+    Scenario 12: (Talk)
+        Title: The Last Shore
+        Terrain:
+        Description:
+        Intro:
+        Beginning:
+        Middle:
+        End:
