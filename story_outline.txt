@@ -88,6 +88,8 @@
         Intro: Intro MC, CF, NB, NG, time/loc and enmity
         Beginning: NB haughty towards MC, CF
         End: NB and NG start appreciating MC and a little CF
+        Note: Added a new "first" scenario after "storyboarding" done to spread
+            out character introductions
 
     Scenario 02:
         Title: Port Assignment
@@ -242,7 +244,7 @@
         Enemy Leaders: DL1, OL1
         Objectives-Victory: Beat DL1
         Objectives-Loss: Death EP, NG, EN, NB
-        Terrain: River east-west-south, plains around, forest, mountains
+        Terrain: River west-south, plains around, forest, mountains
         Description: Flight along river to small bend
         Intro: Really sad NG, EN nice to her
         Beginning: BL1 says money, EP says death
@@ -471,7 +473,7 @@
 
 
     Scenario 06:
-        Title: Pass Through
+        Title: Break Through
         Difficulty: Hard
         Starting Leaders: CF, ES
         Loyal Units: EA
@@ -550,9 +552,9 @@
         Enemy Leaders: OL1, OL2
         Objectives-Victory: Relieve Elensefar
         Objectives-Loss: Death/Turns
-        Terrain:
-        Description:
-        Intro:
+        Terrain: Elensefar northwest (castle/town), plains center-south-west, water north-east
+        Description: CF co. relieve Elensefar from siege
+        Intro: CF co. arrive at Elensefar
         Beginning:
         Middle:
         End:
