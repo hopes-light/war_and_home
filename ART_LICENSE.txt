@@ -10,6 +10,7 @@ images/portraits/princess_lv_4.png
 images/portraits/mornchild.png
 images/portraits/winter.png
 images/portraits/archer.png
+images/portraits/remnant.png
 
 images/title.png
 
