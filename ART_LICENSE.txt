@@ -2,6 +2,7 @@ Origin of the artworks:
 
 Unless stated otherwise, every picture shipped with this addon comes from the Battle for Wesnoth (before 1.14) and is thus licensed under GPL v2 or later.
 
+
 The following artworks are derivatives of Battle for Wesnoth (before 1.14) artwork and fall under the GPL v2 or later.
 
 images/portraits/princess_lv_2.png
@@ -14,8 +15,14 @@ images/portraits/remnant.png
 
 images/title.png
 
+
 The artworks within the following directories are derivatives of Battle for Wesnoth (before 1.14) artwork and fall under the GPL v2 or later.
 
 images/units/high_lady
 images/units/rebel
 images/units/remnant
+
+
+The following artworks are under Copyright (C) 2006 - 2021 by Iris Morelle <shadowm@wesnoth.org> and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+images/units/avatar.png
