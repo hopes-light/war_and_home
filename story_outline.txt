@@ -254,7 +254,7 @@
     ----------------------------- Side path choice -----------------------------
 
     Scenario 12:
-        Title: Awaited Reunion
+        Title: Fateful Reunion
         Difficulty: Easy
         Starting Leaders: EP, NG, CF, EA
         Loyal Units: EN, NB
@@ -270,7 +270,7 @@
         End: Take back town, repair real boats
 
     Scenario 13:
-        Title: Mourn Later
+        Title: Not in Vain
         Difficulty: Hard
         Starting Leaders: EP, CF
         Loyal Units: NG, NB, EA, EN
