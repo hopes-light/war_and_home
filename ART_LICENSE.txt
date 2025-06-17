@@ -2,12 +2,19 @@ Origin of the artworks:
 
 Unless stated otherwise, every picture shipped with this addon comes from the Battle for Wesnoth (before 1.14) and is thus licensed under GPL v2 or later.
 
-The following artworks or artworks within the specified dierctories are derivatives of Battle for Wesnoth (before 1.14) artwork and fall under GPL v2 or later.
+The following artworks are derivatives of Battle for Wesnoth (before 1.14) artwork and fall under the GPL v2 or later.
 
 images/portraits/princess_lv_2.png
 images/portraits/princess_lv_3.png
 images/portraits/princess_lv_4.png
 images/portraits/mornchild.png
+images/portraits/winter.png
+images/portraits/archer.png
+
 images/title.png
 
-image/units/high_lady
+The artworks within the following directories are derivatives of Battle for Wesnoth (before 1.14) artwork and fall under the GPL v2 or later.
+
+images/units/high_lady
+images/units/rebel
+images/units/remnant
