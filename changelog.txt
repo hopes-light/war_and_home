@@ -1,3 +1,7 @@
+0.8.0:
+ - Added 2 scenarios after the previous ones (2 battles)
+ - Added "custom" portraits to the important orc leaders (vanilla alternate grunt images, but boss-looking ones)
+
 0.7.0:
  - Added 5 scenarios after the previous ones (2 battles, 3 dialogue)
  - Modified gold in scenarios 22-26 (to player's advantage)

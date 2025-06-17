@@ -1,3 +1,7 @@
+0.7.0 -> 0.8.0
+    "forces to the North are too" -> "forces to the north are too" (capitalization)
+    I think that's it
+
 0.6.1 - > 0.7.0
     "one of their leader" -> "one of their leaders" (plural)
     "'ve" to "have"

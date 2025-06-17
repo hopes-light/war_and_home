@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-04-21 02:59 UTC\n"
-"PO-Revision-Date: 2023-04-20 23:00-0400\n"
+"POT-Creation-Date: 2023-07-19 00:20 UTC\n"
+"PO-Revision-Date: 2023-07-18 20:21-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -11,25 +11,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:39
+#: war_and_home\_main.cfg:40
 msgid "War and Home"
 msgstr "Guerre et patrie"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:40
+#: war_and_home\_main.cfg:41
 msgid "WaH"
 msgstr "GeP"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:51
+#: war_and_home\_main.cfg:52
 msgid ""
 "A tale of a rookie wesnothian officer and the part he, along with those he "
 "meets on his way, plays in a war against a new orcish onslaught\n"
 "\n"
-"(Intermediate level, 31 out of 40-something scenarios playable).\n"
+"(Intermediate level, 33 out of 40-something scenarios playable).\n"
 "\n"
 "If you have a save from an older version (pre 0.2.0) then some things might "
 "not work (I added a new 'first' scenario and I had messed up a few things), "
@@ -41,7 +41,7 @@ msgstr ""
 "L'histoire d'un jeune officier de l'armée de Wesnoth et le rôle qu'il joue, "
 "avec ses compagnons, dans une guerre contre un nouvel assaut orc.\n"
 "\n"
-"(Niveau intermédiaire, 31 parmi les à peu près 40 scénarios prévus sont "
+"(Niveau intermédiaire, 33 parmi les à peu près 40 scénarios prévus sont "
 "jouables).\n"
 "\n"
 "Si vous avez une sauvegarde d'une vieille version (pré-0.2.0) alors "
@@ -54,117 +54,117 @@ msgstr ""
 "fonctionner, après cela ne sera assurément plus le cas."
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:57
+#: war_and_home\_main.cfg:58
 msgid "Lieutenant"
 msgstr "Lieutenant"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:57
+#: war_and_home\_main.cfg:58
 msgid "Easy"
 msgstr "Facile"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:58
+#: war_and_home\_main.cfg:59
 msgid "General"
 msgstr "Général"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:58
+#: war_and_home\_main.cfg:59
 msgid "Normal"
 msgstr "Normal"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:59
+#: war_and_home\_main.cfg:60
 msgid "Grand Marshal"
 msgstr "Maréchal"
 
 #. [campaign]: id=war_and_home, type=hybrid
-#: war_and_home\_main.cfg:59
+#: war_and_home\_main.cfg:60
 msgid "Hard"
 msgstr "Difficile"
 
 #. [about]
-#: war_and_home\_main.cfg:81
+#: war_and_home\_main.cfg:82
 msgid "Campaign design and programming (if I ever finish it...)"
 msgstr "Conception et programmation de la campagne (si je la finis…)"
 
 #. [entry]
-#: war_and_home\_main.cfg:83 war_and_home\_main.cfg:101
+#: war_and_home\_main.cfg:84 war_and_home\_main.cfg:102
 msgid "hopelight"
 msgstr "hopelight"
 
 #. [about]
-#: war_and_home\_main.cfg:87
+#: war_and_home\_main.cfg:88
 msgid "Sprite used for the Winter Shyde unit"
 msgstr "Sprite utilisé pour la nymphe de l'hiver"
 
 #. [entry]
-#: war_and_home\_main.cfg:89 war_and_home\_main.cfg:95
-#: war_and_home\_main.cfg:134
+#: war_and_home\_main.cfg:90 war_and_home\_main.cfg:96
+#: war_and_home\_main.cfg:135
 msgid "Iris Morelle (Irydacea/shadowm)"
 msgstr "Iris Morelle (Irydacea/shadowm)"
 
 #. [about]
-#: war_and_home\_main.cfg:93
+#: war_and_home\_main.cfg:94
 msgid "Base image for Haldar portrait"
 msgstr "Image d'origine pour le portrait de Haldar"
 
 #. [about]
-#: war_and_home\_main.cfg:99
+#: war_and_home\_main.cfg:100
 msgid "French Translation"
 msgstr "Traduction française"
 
 #. [about]
-#: war_and_home\_main.cfg:105
+#: war_and_home\_main.cfg:106
 msgid "Japanese Translation"
 msgstr "Traduction japonaise"
 
 #. [entry]
-#: war_and_home\_main.cfg:107
+#: war_and_home\_main.cfg:108
 msgid "chee/k.k konami,k"
 msgstr "chee/k.k konami,k"
 
 #. [entry]
-#: war_and_home\_main.cfg:110
+#: war_and_home\_main.cfg:111
 msgid "yabuki"
 msgstr "yabuki"
 
 #. [about]
-#: war_and_home\_main.cfg:114 war_and_home\_main.cfg:123
-#: war_and_home\_main.cfg:132 war_and_home\_main.cfg:150
+#: war_and_home\_main.cfg:115 war_and_home\_main.cfg:124
+#: war_and_home\_main.cfg:133 war_and_home\_main.cfg:151
 msgid "Special Thanks"
-msgstr "Remericements"
+msgstr "Remerciements"
 
 #. [entry]
-#: war_and_home\_main.cfg:116
+#: war_and_home\_main.cfg:117
 msgid "The Battle for Wesnoth project's contributors over the years."
 msgstr ""
 "Les contributeurs au projet de la Bataille pour Wesnoth au cours des années."
 
 #. [entry]
-#: war_and_home\_main.cfg:119
+#: war_and_home\_main.cfg:120
 msgid "... Otherwise nobody would be here ..."
 msgstr "... Sinon personne d'entre nous ne seraient ici..."
 
 #. [entry]
-#: war_and_home\_main.cfg:125
+#: war_and_home\_main.cfg:126
 msgid "Eric S. Raymond (ESR)"
 msgstr "Eric S. Raymond (ESR)"
 
 #. [entry]
-#: war_and_home\_main.cfg:128
+#: war_and_home\_main.cfg:129
 msgid "For his Battle for Wesnoth Campaign Design How-to."
 msgstr ""
 "Pour son guide de création de campagne \"Battle for Wesnoth Campaign Design "
 "How-to\"."
 
 #. [entry]
-#: war_and_home\_main.cfg:137
+#: war_and_home\_main.cfg:138
 msgid "For Invasion from the Unknown and After the Storm."
 msgstr "Pour Invasion de l'inconnu et Après la tempête."
 
 #. [entry]
-#: war_and_home\_main.cfg:140
+#: war_and_home\_main.cfg:141
 msgid ""
 "For a blog post that I fell on while searching for Aragwaithi campaigns."
 msgstr ""
@@ -172,7 +172,7 @@ msgstr ""
 "avec les Aragwaithi."
 
 #. [entry]
-#: war_and_home\_main.cfg:143
+#: war_and_home\_main.cfg:144
 msgid ""
 "It motivated me enough to have planned the campaign and published the first "
 "release, 5 months later."
@@ -181,7 +181,7 @@ msgstr ""
 "première version, 5 mois plus tard."
 
 #. [entry]
-#: war_and_home\_main.cfg:146
+#: war_and_home\_main.cfg:147
 msgid ""
 "(Yes, that much time without utter disinterest manifesting is unusual for "
 "me, why do you ask...)."
@@ -190,17 +190,17 @@ msgstr ""
 "inhabituel pour moi, pourquoi tu demandes...)."
 
 #. [entry]
-#: war_and_home\_main.cfg:152
+#: war_and_home\_main.cfg:153
 msgid "Dugi"
 msgstr "Dugi"
 
 #. [entry]
-#: war_and_home\_main.cfg:155
+#: war_and_home\_main.cfg:156
 msgid "For the Legend of the Invincibles."
 msgstr "Pour \"Legend of the Invincibles\"."
 
 #. [entry]
-#: war_and_home\_main.cfg:158
+#: war_and_home\_main.cfg:159
 msgid "Specifically for the explanation on how to make special campaign icons."
 msgstr ""
 "Spécifiquement pour l'explication sur comment faire des icônes de campagne "
@@ -245,6 +245,7 @@ msgstr "Finir le tour... (dit l'auteur)"
 #. [scenario]: id=20_Arrival_And_Warning
 #. [scenario]: id=28_Back_From_The_Brink
 #. [scenario]: id=31_Return_To_Wesnoth
+#. [scenario]: id=32_Like_Waves_Upon_The_Rocks
 #: war_and_home\scenarios\01_A_Practice_Bout.cfg:38
 #: war_and_home\scenarios\02_Port_Assignement.cfg:38
 #: war_and_home\scenarios\03_Port_Assignement.cfg:39
@@ -294,15 +295,18 @@ msgstr "Finir le tour... (dit l'auteur)"
 #: war_and_home\scenarios\24_A_Child_Of_Light.cfg:92
 #: war_and_home\scenarios\25_A_Lone_Village.cfg:42
 #: war_and_home\scenarios\26_Encircled.cfg:45
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:50
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:33
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:53
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:53
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:31
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:51
 #: war_and_home\scenarios\29_A_Haven_Assaulted.cfg:47
 #: war_and_home\scenarios\30_Departure.cfg:39
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:33
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:91
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:70
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:42
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:32
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:90
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:69
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:46
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:100
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:40
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:42
 #: war_and_home\scenarios\Test.cfg:34
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:45
 msgid "Wesnoth"
@@ -896,7 +900,7 @@ msgstr ""
 "\n"
 "Après, nous nous dirigerions avec ses troupes vers Lintanir, autant pour "
 "s'entraîner avec les elfes du nord que pour vérifier les rapports d'activité "
-"orc accrue et de l'ascension d'un nouveau grand chef.\n"
+"orc accrue et de l'ascension d'un nouveau Grand Chef.\n"
 "\n"
 "Cependant, ni les elfes ni les orcs ne seraient nos premiers adversaires au "
 "nord du fleuve."
@@ -1271,6 +1275,7 @@ msgstr "Encore ça? D'accord, je vais vous faire plaisir..."
 #: war_and_home\scenarios\23_The_Monastery.cfg:196
 #: war_and_home\scenarios\25_A_Lone_Village.cfg:262
 #: war_and_home\scenarios\26_Encircled.cfg:248
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:279
 msgid ""
 "The sound of great wardrums resounds in the distance, announcing death and "
 "the end of hope."
@@ -1378,7 +1383,7 @@ msgstr ""
 #. [message]: speaker=EP
 #: war_and_home\scenarios\06_Evacuate.cfg:309
 msgid ""
-"Though it pains me to say so, we must do so now for the forces to the North "
+"Though it pains me to say so, we must do so now for the forces to the north "
 "are too strong for us."
 msgstr ""
 "Bien que cela soit dur à accepter, il faudrait le faire maintenant car les "
@@ -1615,7 +1620,7 @@ msgstr "Je suis désolé votre majesté..."
 #. [message]: speaker=B1
 #: war_and_home\scenarios\07_The_North_Fall.cfg:371
 msgid "All hail Great Chief Vrodar!"
-msgstr "Vive le grand chef Vrodar!"
+msgstr "Vive le Grand Chef Vrodar!"
 
 #. [message]: speaker=OG
 #: war_and_home\scenarios\07_The_North_Fall.cfg:375
@@ -1624,7 +1629,7 @@ msgid ""
 "every direction</i>) All hail Great Chief Vrodar!"
 msgstr ""
 "(<i>Tous ensembles, la horde orc reprends ce cri de guerre, des échos "
-"résonant de partout</i>) Vive le grand chef Vrodar!"
+"résonant de partout</i>) Vive le Grand Chef Vrodar!"
 
 #. [message]: speaker=EP
 #: war_and_home\scenarios\07_The_North_Fall.cfg:380
@@ -1706,7 +1711,7 @@ msgstr "Rejoindre la limite au sud de la carte"
 #: war_and_home\scenarios\26_Encircled.cfg:139
 #: war_and_home\scenarios\26_Encircled.cfg:155
 #: war_and_home\scenarios\26_Encircled.cfg:171
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:121
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:125
 #: war_and_home\scenarios\Test.cfg:45
 msgid "Orcish Forces"
 msgstr "Forces orc"
@@ -1794,7 +1799,7 @@ msgid ""
 "right, big boy?"
 msgstr ""
 "Pillez tout! (<i>Il remarque le groupe d'humains et d'elfes</i>) Des "
-"survivants de l'assaut du grand chef sur Lintanir? On va finir le travail, "
+"survivants de l'assaut du Grand Chef sur Lintanir? On va finir le travail, "
 "n'est-ce pas, gros gars?"
 
 #. [message]: speaker=TL1
@@ -1847,7 +1852,7 @@ msgstr ""
 #. [message]: speaker=B4
 #: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:276
 msgid "No! I will not disappoint Chief Vrodar! I will return, scum!"
-msgstr "Non! Je ne décevrais pas le grand chef! Je reviendrai, racaille!"
+msgstr "Non! Je ne décevrais pas le Grand Chef! Je reviendrai, racaille!"
 
 #. [message]: speaker=unit
 #: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:291
@@ -2851,7 +2856,13 @@ msgid "Wildlife"
 msgstr "Animaux"
 
 #. [side]
+#. [side]: id=OL2, type=Orcish Slurbow
+#. [side]: id=OL, type=Orcish Nightblade
 #: war_and_home\scenarios\14_Laying_Low.cfg:141
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:115
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:130
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:116
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:131
 msgid "Orcs"
 msgstr "Orcs"
 
@@ -3451,7 +3462,7 @@ msgid ""
 "They decided to evacuate over the Great River and within Wesnoth's "
 "heartlands as Merlyc would not hold against a massive orcish assault."
 msgstr ""
-"Ils décidèrent d'évacuer en traversant le grand fleuve et en rejoignant le "
+"Ils décidèrent d'évacuer en traversant le Grand Fleuve et en rejoignant le "
 "cœur de Wesnoth car Merlyc ne tiendrait pas contre un assaut orc massif."
 
 #. [part]
@@ -3772,15 +3783,15 @@ msgstr ""
 #. [message]: speaker=narrator
 #. [message]
 #: war_and_home\scenarios\20_Arrival_And_Warning.cfg:541
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:696
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:706
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:754
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:763
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:918
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:929
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:950
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1088
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1103
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:802
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:812
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:860
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:869
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1033
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1044
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1065
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1202
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1232
 msgid "Mal Keshar"
 msgstr "Mal Keshar"
 
@@ -3812,7 +3823,7 @@ msgstr "Lueur en pleine nuit"
 #. [objective]: condition=win
 #: war_and_home\scenarios\21_Morning_In_The_Night.cfg:23
 #: war_and_home\scenarios\24_A_Child_Of_Light.cfg:23
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:28
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:28
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:32
 msgid "End the turn"
 msgstr "Finir le tour"
@@ -3882,7 +3893,7 @@ msgstr "Une terre désolée"
 #: war_and_home\scenarios\23_The_Monastery.cfg:75
 #: war_and_home\scenarios\25_A_Lone_Village.cfg:84
 #: war_and_home\scenarios\26_Encircled.cfg:87
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:95
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:99
 #: war_and_home\scenarios\29_A_Haven_Assaulted.cfg:95
 #: war_and_home\scenarios\30_Departure.cfg:88
 msgid "Rangers"
@@ -3945,7 +3956,7 @@ msgid ""
 "<i>A Desolate Land</i>"
 msgstr ""
 "Chapitre Vingt-deux\n"
-"<i>Une terre désolé</i>"
+"<i>Une terre désolée</i>"
 
 #. [message]: speaker=MC
 #: war_and_home\scenarios\22_A_Desolate_Land.cfg:160
@@ -4585,46 +4596,46 @@ msgstr "Dans les ténèbres"
 
 #. [objective]: condition=win
 #: war_and_home\scenarios\27_Into_The_Dark.cfg:21
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:459
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:521
 msgid "Escape the orcs"
 msgstr "Échapper aux orcs"
 
 #. [note]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:27
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:469
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:598
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1214
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:28
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:532
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:664
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1344
 msgid ""
 "Movement cost on normal cave terrain is reduced to 1 for all your units."
 msgstr "Les coûts des mouvements sont réduits à un pour toutes vos unités."
 
 #. [note]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:30
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:472
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1217
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:31
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:535
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1347
 msgid "The enemy monsters have a zone of control even if they are level 0."
 msgstr ""
 "Les monstres ennemis ont une zone de contrôle même s'ils sont de niveau zéro."
 
 #. [side]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:133
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:145
 msgid "Monsters"
 msgstr "Monstres"
 
 #. [side]
 #. [unit_type]: id=Remnant, race=undead
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:167
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:161
 #: war_and_home\units\Remnant.cfg:7
 msgid "Remnant"
 msgstr "Vestige"
 
 #. [side]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:175
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:169
 msgid "Undead"
 msgstr "Mort-vivant"
 
 #. [part]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:185
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:179
 msgid ""
 "Haldar and Elaessa, assisted by Wolfie, carried me out of there and managed "
 "to evade the orcish pursuers, settling in a cave to the south-east for "
@@ -4635,7 +4646,7 @@ msgstr ""
 "une cave au sud-est comme refuge."
 
 #. [part]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:188
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:182
 msgid ""
 "By that point, I had already fainted as the pain kept on rising. I would "
 "soon become quite feverish as the curse seemed to come into its own."
@@ -4645,7 +4656,7 @@ msgstr ""
 "dévoiler son étendue."
 
 #. [part]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:191
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:185
 msgid ""
 "Though Elaessa did her best to help me, there was little she could do apart "
 "from watching over me while I drifted in and out of consciousness."
@@ -4654,7 +4665,7 @@ msgstr ""
 "grand chose à par veiller sur moi alors que je reposais, inconscient."
 
 #. [part]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:194
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:188
 msgid ""
 "When I finally awoke, Haldar had left to scout the surroundings and had "
 "taken Wolfie with him, leaving only Elaessa in the cave, besides me."
@@ -4664,7 +4675,7 @@ msgstr ""
 "moi."
 
 #. [part]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:197
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:191
 msgid ""
 "Chapter Twenty-Seven\n"
 "<i>Into The Dark</i>"
@@ -4673,14 +4684,14 @@ msgstr ""
 "<i>Dans les ténèbres</i>"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:262
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:253
 msgid "Turod, you are awake! We were so worried, you were growing quite ill."
 msgstr ""
 "Turod, tu est réveillé! Nous étions très inquiets, tu semblais devenir bien "
 "malade."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:266
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:257
 msgid ""
 "Apologies for the fright, and thank you for your concern... Where are we? Is "
 "it Haldar's refuge?"
@@ -4689,7 +4700,7 @@ msgstr ""
 "Est-ce le refuge d'Haldar?"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:270
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:261
 msgid ""
 "No, this is just a cave for shelter. Haldar went out — <i>yaawn</i> — to "
 "scout... —Sorry for that..."
@@ -4698,7 +4709,7 @@ msgstr ""
 "bâille</i>) — pour vérifier les environs… —Désolé pour ces bâillements..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:274
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:265
 msgid ""
 "It's not a problem, you seem to be in need of rest. I will take the watch "
 "until he returns."
@@ -4707,12 +4718,12 @@ msgstr ""
 "tenir la garde jusqu'à ce qu'il revienne."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:278
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:269
 msgid "Th—Thank you very much... <i>Zzz</i>..."
 msgstr "M—Merci beaucoup… <i>Zzz</i>..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:282
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:273
 msgid ""
 "<i>She must have been really tired... I'll get her a blanket for now...</i>"
 msgstr ""
@@ -4720,23 +4731,23 @@ msgstr ""
 "i>"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:290
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:281
 msgid "T—Turod? What is happening?"
 msgstr "T—Turod? Que se passe-t-il?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:294
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:285
 msgid "There are orcs close to the entrance. We need to prepare to leave."
 msgstr ""
 "Il y a des orcs proches de l'entrée. Nous devons nous préparer à partir."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:298
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:289
 msgid "Where is Haldar?"
 msgstr "Où est Haldar?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:302
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:293
 msgid ""
 "Not back yet... And he won't be able to reach us through this entrance with "
 "the orcs in the way. For now, let us wait and see if they come in."
@@ -4745,22 +4756,22 @@ msgstr ""
 "avec les orcs dans le chemin. Pour le moment, voyons s'ils vont entrer."
 
 #. [message]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:309
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:300
 msgid "Sniff sniff... Smells like humans... they're inside!"
 msgstr "Sniff sniff… Ça sent les humains… Ils sont dedans!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:347
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:338
 msgid "We have to go into the caves, now!"
 msgstr "Nous devons nous enfoncer dans les cavernes, maintenant!"
 
 #. [message]: speaker=OL1
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:378
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:369
 msgid "Catch 'em and kill 'em!"
 msgstr "Attrapez-les et tuez-les!"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:445
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:507
 msgid ""
 "This detour to evade the patrols was far too long... We have to find Turod "
 "and Elaessa and get away from here!"
@@ -4769,12 +4780,12 @@ msgstr ""
 "rejoindre Turod et Elaessa et partir d'ici!"
 
 #. [message]: speaker=WF
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:449
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:511
 msgid "Woof woof!"
 msgstr "Wouf wouf!"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:453
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:515
 msgid ""
 "I know we need to hurry, but we must still be careful of monsters in these "
 "caves!"
@@ -4783,19 +4794,19 @@ msgstr ""
 "attention aux monstres dans ces cavernes!"
 
 #. [objective]: condition=win
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:463
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:592
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1208
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:525
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:657
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1337
 msgid "Reunite the two groups"
 msgstr "Réunir les deux groupes"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:521
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:585
 msgid "Turod and Elaessa! You got this far, within the tunnels?"
 msgstr "Turod et Elaessa! Vous vous êtes rendus aussi loin dans les tunnels?"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:525
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:589
 msgid ""
 "(<i>Dragging Turod</i>) Yes, but please help, something happened and Turod's "
 "curse was lifted but his wounds returned!"
@@ -4804,7 +4815,7 @@ msgstr ""
 "de sa malédiction mais ses blessures se sont réouvertes!"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:529
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:593
 msgid ""
 "Follow me, I know the way forward. We will lose whoever is following us on "
 "our way to my friend. He'll be able to help, he can handle these wounds!"
@@ -4814,21 +4825,21 @@ msgstr ""
 "de blessure!"
 
 #. [message]: speaker=OL1
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:580
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:645
 msgid "We have lost 'em, fall back and guard the entrance, they won't get out!"
 msgstr ""
 "Nous les 'vons perdus, battez en retraite et gardez l'entrée, ils ne "
 "s'échapperont pas!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:584
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:649
 msgid "We won't be able to get back... Please lords, help us find a way out."
 msgstr ""
 "Nous ne pouvons pas retourner en arrière… Pitié ô seigneurs, aidez-nous à "
 "trouver une sortie."
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:623
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:690
 msgid ""
 "There was a cave-in... The passage will take a long time to clear... But "
 "there's no other way... I hope the others are all right..."
@@ -4837,27 +4848,27 @@ msgstr ""
 "Il n'y a pas d'autre chemin… J'espère que les autres vont bien..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:662
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:756
 msgid "I—I feel wrong, something is happening to me!"
 msgstr "Je—je me sens mal, quelque chose est en train de m'arriver!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:671
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:765
 msgid "Turod, w—what is it?"
 msgstr "Turod, qu—qu'est-ce qu'il y a?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:688
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:794
 msgid "Yiargh!"
 msgstr "Aargh!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:692
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:798
 msgid "Nooo, Turod!"
 msgstr "Nooon, Turod!"
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:698
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:804
 msgid ""
 "(<i>A dark voice booms in the cave</i>) Good, you finally fell. Now, take "
 "her as your first minion!"
@@ -4866,12 +4877,12 @@ msgstr ""
 "Maintenant, transforme-la en ta première servante!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:702
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:808
 msgid "..."
 msgstr "..."
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:708
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:814
 msgid ""
 "A fool who held on until the bitter end, pitiful. You are but a puppet now, "
 "a thinking one perhaps, but a puppet nonetheless."
@@ -4881,12 +4892,12 @@ msgstr ""
 "marionnette malgré tout."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:712
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:818
 msgid "Aarrrgh!"
 msgstr "Aarrrgh!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:716
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:822
 msgid ""
 "Thank you for holding on until the end... Let us hope we shall have a better "
 "fate one day..."
@@ -4895,7 +4906,7 @@ msgstr ""
 "un jour..."
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:756
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:862
 msgid ""
 "Such sentimentality... Well then, let us bind her spirit to yours, that you "
 "may remain together forever."
@@ -4904,22 +4915,22 @@ msgstr ""
 "vous restiez ensemble pour toujours."
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:765
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:871
 msgid "Good. Now, assemble an army and kill this orc scum!"
 msgstr "Bien, maintenant assemble une armée et tue cette vermine orc!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:775
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:881
 msgid "I ... can't... hold on... sorry..."
 msgstr "Je ne… peux pas… continuer… désolé..."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:779
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:885
 msgid "Turod? Turod! — No, please! — Hold on!"
 msgstr "Turod? Turod! — Non, pitié! — Tiens bon!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:783
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:889
 msgid ""
 "I already... cheated... death twice... I guess a... third time... was too "
 "much... to ask for..."
@@ -4928,30 +4939,30 @@ msgstr ""
 "la troisième fois aurait été... de trop…"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:787
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:893
 msgid "I am trying to heal you! Keep your eyes open, please!"
 msgstr ""
 "Je suis en train d'essayer de te soigner! Garde les yeux ouvert, s'il te "
 "plaît!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:791
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:897
 msgid "You were... really nice... I wish we'd had... met earlier..."
 msgstr ""
 "Tu étais… vraiment gentille… J'aurai aimé… que l'on se rencontre… plus tôt..."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:800
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:906
 msgid "Noo! No, lords, please no..."
 msgstr "Nooon! Non, ô seigneurs, pitié, non..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:843
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:951
 msgid "There is nothing behind this shrine, it's just a cave—in..."
 msgstr "Il n'y a rien derrière cet autel, juste un tunnel effondré..."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:847
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:955
 msgid ""
 "It feels peaceful, like it was a place for people to take refuge, not "
 "worship... In any case, what do we do now?"
@@ -4960,12 +4971,12 @@ msgstr ""
 "réfugier, et non prier… Mais en tout cas, que faisons-nous maintenant?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:851
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:959
 msgid "We will see, I—I don't know yet..."
 msgstr "Nous verrons, j—je ne sais pas..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:870
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:983
 msgid ""
 "(<i>He falls to the ground</i>) Oh lords, the pain! I—I feel wrong, "
 "something is happening to me!"
@@ -4974,23 +4985,23 @@ msgstr ""
 "chose est en train de se passer!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:874
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:987
 msgid "Turod, w—what is it? Oh no, the curse! It's taking effect!"
 msgstr ""
 "Turod qu—que se passse-t-il? Oh non, la malédiction! Elle se manifeste!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:893
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1008
 msgid "Thank the lords, this light just held it back!"
 msgstr "Loués soient les seigneurs, cette lumière l'a repoussée!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:897
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1012
 msgid "I feel far better than before... But who did this?"
 msgstr "Je me sens bien mieux qu'avant… Mais, qui a fait cela?"
 
 #. [message]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:920
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1035
 msgid ""
 "(<i> A fell voice comes out of the dark spirit</i>) You only lived through "
 "the power of the dark! This insignificant obstacle changes nothing, accept "
@@ -5001,17 +5012,17 @@ msgstr ""
 "change rien, accepte ton sort!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:925
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1040
 msgid "W—What are you, fell spirit!?"
 msgstr "Qu—qu'es-tu, vil spectre?"
 
 #. [message]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:931
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1046
 msgid "The one who kept you alive, and the one you shall bow to!"
 msgstr "Celui qui t'a gardé en vie, et celui que tu serviras!"
 
 #. [message]: speaker=RT
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:946
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1061
 msgid ""
 "...This is a refuge for the wounded and suffering. You have no place here, "
 "fell undead."
@@ -5020,7 +5031,7 @@ msgstr ""
 "place ici, mort-vivant."
 
 #. [message]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:952
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1067
 msgid ""
 "You are nothing more than a fading remnant of a long-lost soul! You have "
 "almost no powere left!"
@@ -5029,7 +5040,7 @@ msgstr ""
 "pouvoirs sont insignifiants!"
 
 #. [message]: speaker=RT
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:956
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1071
 msgid ""
 "They have held onto hope through terrible trials, it shall not be denied to "
 "them before me!"
@@ -5038,7 +5049,7 @@ msgstr ""
 "pas enlevé en ma présence!"
 
 #. [message]: speaker=RT
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1041
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1156
 msgid ""
 "I may have little power left, but I shall not stand by idly... They will not "
 "be left on their own!"
@@ -5047,31 +5058,31 @@ msgstr ""
 "ne resterait pas sans rien faire... Ils ne seront pas laissés à eux-mêmes!"
 
 #. [effect]: type=arcane
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1057
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1171
 msgid "echo of hope"
 msgstr "écho d'espoir"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1080
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1194
 msgid "I feel better than before and — <i>why is my sword glowing!?</i>"
 msgstr ""
 "Je me sens bien mieux qu'avant et — <i>pourquoi est-ce que mon épée brille!?"
 "</i>"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1084
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1198
 msgid "He gave us his blessing, that we might beat this undead!"
 msgstr ""
 "Il nous a donné sa bénédiction, que nous puissions vaincre ce mort-vivant!"
 
 #. [message]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1090
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1204
 msgid "Then try, poor fools, for all your efforts will be for naught!"
 msgstr ""
 "Dans ce cas, essayez, pauvres idiots, car tous vos efforts seront vains!"
 
 #. [message]
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1105
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1234
 msgid ""
 "Fool, that pitiful remnant did not have enough power to truly heal you, you "
 "will die of your wounds!"
@@ -5080,22 +5091,22 @@ msgstr ""
 "tu mourras de tes blessures!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1130
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1259
 msgid "Ouch!"
 msgstr "Aïee!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1134
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1263
 msgid "Turod, are you alright? You seem heavily wounded!"
 msgstr "Turod, est-ce que ça va? Tu sembles très blessé!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1138
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1267
 msgid "I fear that fell monster spoke the truth..."
 msgstr "J'ai bien peur que ce monstre ait dit la vérité..."
 
 #. [message]: speaker=RT
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1152
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1281
 msgid ""
 "I sadly indeed had no power left, but take heart, for your way out is "
 "close... As a parting gift, take the memories of this battle and remember, "
@@ -5109,17 +5120,22 @@ msgstr ""
 "bien."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\27_Into_The_Dark.cfg:1202
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1331
 msgid "The way behind the statue is clear, let's go!"
 msgstr "Le passage derrière la statue est libre, allons-y!"
 
+#. [message]: speaker=HR
+#: war_and_home\scenarios\27_Into_The_Dark.cfg:1364
+msgid "The cave-in cleared itself magically... Let us advance cautiously..."
+msgstr "L'effondrement a disparu comme par magie… Avançons prudemment..."
+
 #. [scenario]: id=28_Back_From_The_Brink
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:7
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:5
 msgid "Back From The Brink"
 msgstr "De retour du précipice"
 
 #. [part]
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:69
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:67
 msgid ""
 "Though the intervention of the benevolent spirit had lifted the curse, the "
 "fell spectre had still left darkness in its wake."
@@ -5128,7 +5144,7 @@ msgstr ""
 "vil spectre avait laissé des traces de son passage."
 
 #. [part]
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:72
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:70
 msgid ""
 "I had rapidly fallen unconscious once more, and Haldar and Elaessa had to "
 "carry me out of the tunnels."
@@ -5137,7 +5153,7 @@ msgstr ""
 "transporter hors des tunnels."
 
 #. [part]
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:75
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:73
 msgid ""
 "Chapter Twenty-Eight\n"
 "<i>Back From The Brink</i>"
@@ -5146,12 +5162,12 @@ msgstr ""
 "<i>De retour du précipice</i>"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:98
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:96
 msgid "... Ugh ... Where am I?"
 msgstr "... Où suis-je?"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:102
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:100
 msgid ""
 "Oh, Turod, you woke up! Haldar's friend healed you, you should be all right "
 "now!"
@@ -5160,14 +5176,14 @@ msgstr ""
 "complètement guéri!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:116
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:114
 msgid "I am grateful for his help... How long was I asleep?"
 msgstr ""
 "Je suis bien reconnaissant pour son aide... Combien de temps ai-je passé "
 "endormi?"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:120
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:118
 msgid ""
 "Only about a day... I—I kept watch in case you reacted badly to the "
 "treatment... They both said you should rest a few more days and then they "
@@ -5178,7 +5194,7 @@ msgstr ""
 "quelques jours et qu'ensuite ils t'aideraient à rejoindre Wesnoth."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:124
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:122
 msgid ""
 "Well then, thank you as well... And, as for Wesnoth, if you don't really "
 "know what to do now... well, you could always go there as well."
@@ -5187,7 +5203,7 @@ msgstr ""
 "pas quoi faire maintenant... tu pourrais toujours venir aussi."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:128
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:126
 msgid ""
 "Really? I—I have never been there. I spent my whole life in the monastery... "
 "A—And anyway, I wouldn't know where to go once there, though..."
@@ -5196,7 +5212,7 @@ msgstr ""
 "monastère... Et puis, je ne saurais pas quoi faire une fois là-bas..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:132
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:130
 msgid ""
 "There are many people in need of a healer there, and I would probably need "
 "help as well."
@@ -5205,12 +5221,12 @@ msgstr ""
 "j'aurai aussi probablement besoin d'aide."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:136
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:134
 msgid "T—Then I shall be happy to come along!"
 msgstr "D—Dans ce cas, cela me ferait un plaisir de venir!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:140
+#: war_and_home\scenarios\28_Back_From_The_Brink.cfg:138
 msgid ""
 "Great! Now, I should probably go give my thanks to Haldar and his friend."
 msgstr ""
@@ -5420,47 +5436,47 @@ msgstr ""
 "<i>Départ</i>"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\30_Departure.cfg:140
+#: war_and_home\scenarios\30_Departure.cfg:160
 msgid "So, are you both ready?"
 msgstr "Alors, êtes-vous tous les deux prêts?"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\30_Departure.cfg:144
+#: war_and_home\scenarios\30_Departure.cfg:164
 msgid "Yes!"
 msgstr "Oui!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\30_Departure.cfg:148
+#: war_and_home\scenarios\30_Departure.cfg:168
 msgid ""
 "Yes, and thank you for your help. I would have been long-dead without it."
 msgstr ""
 "Oui, et merci pour l'aide. J'aurai été mort depuis longtemps sans celle-ci."
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\30_Departure.cfg:152
+#: war_and_home\scenarios\30_Departure.cfg:172
 msgid "It was no trouble and in any case you helped us in return."
 msgstr ""
 "Ce n'était pas un problème.. Et, de toute façon, tu nous as bien aidé en "
 "retour."
 
 #. [message]: speaker=WF
-#: war_and_home\scenarios\30_Departure.cfg:156
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:262
+#: war_and_home\scenarios\30_Departure.cfg:176
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:261
 msgid "Woof!"
 msgstr "Wouf!"
 
 #. [message]: speaker=OM
-#: war_and_home\scenarios\30_Departure.cfg:160
+#: war_and_home\scenarios\30_Departure.cfg:180
 msgid "... These gryphons will carry you four to Wesnoth."
 msgstr "… Ces gryphons vous transporterons tous les quatre vers Wesnoth."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\30_Departure.cfg:164
+#: war_and_home\scenarios\30_Departure.cfg:184
 msgid "Haldar, you are coming with us?"
 msgstr "Haldar, tu vie4ns avec nous?"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\30_Departure.cfg:168
+#: war_and_home\scenarios\30_Departure.cfg:188
 msgid ""
 "Yes. After all, I did promise Turod. And in any case, the orcs' actions may "
 "have endangered some people I care about. I'll go check up on them."
@@ -5470,28 +5486,28 @@ msgstr ""
 "voir comment ils vont."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\30_Departure.cfg:172
+#: war_and_home\scenarios\30_Departure.cfg:192
 msgid ""
 "Thank you very much to the both of you. Well then, let us ride the gryphons!"
 msgstr "Merci beaucoup à vous deux. Bon, maintenant, montons sur ces gryphons!"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\30_Departure.cfg:187
+#: war_and_home\scenarios\30_Departure.cfg:207
 msgid "Goodbye Elzear, see you soon."
 msgstr "Au revoir Elzéar, à bientôt."
 
 #. [message]: speaker=OM
-#: war_and_home\scenarios\30_Departure.cfg:191
+#: war_and_home\scenarios\30_Departure.cfg:211
 msgid "Goodbye, enjoy the flight."
 msgstr "Au revoir, profitez du vol."
 
 #. [scenario]: id=31_Return_To_Wesnoth
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:7
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:5
 msgid "Return To Wesnoth"
 msgstr "Retour vers Wesnoth"
 
 #. [part]
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:106
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:105
 msgid ""
 "Flying is, quite honestly, an experience without compare. Once the initial "
 "moments of fear are over, and you start opening your eyes, the feeling of "
@@ -5504,7 +5520,7 @@ msgstr ""
 "je n'avais jamais imaginé avant."
 
 #. [part]
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:109
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:108
 msgid ""
 "With the gryphons' help, we rapidly arrived in Soradoc, where we would warn "
 "the realm if the others hadn't made it out and then join the fight once "
@@ -5521,7 +5537,7 @@ msgstr ""
 "rentrer dans la cité."
 
 #. [part]
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:114
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:113
 msgid ""
 "Chapter Thirty-One\n"
 "<i>Return To Wesnoth</i>"
@@ -5530,12 +5546,12 @@ msgstr ""
 "<i>Retour vers Wesnoth</i>"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:186
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:185
 msgid "Flight is really wonderful, isn't it?"
 msgstr "Voler est vraiment merveilleux, n'est-ce pas?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:190
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:189
 msgid ""
 "Yes, it was quite enjoyable. Though I must admit, I do also enjoy being back "
 "on solid ground!"
@@ -5544,13 +5560,13 @@ msgstr ""
 "d'être de retour au sol!"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:194
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:193
 msgid "So, this is what the main towns in the realm of Wesnoth look like..."
 msgstr ""
 "C'est à cela que les grandes villes du royaume de Wesnoth ressemblent..."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:198
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:197
 msgid ""
 "I forget, you never really saw it. This is not its greatest city, for "
 "Soradoc is eclipsed by the likes of Dan Tonk, or the capital Weldyn, but it "
@@ -5561,12 +5577,12 @@ msgstr ""
 "mais c'est quand même là où je suis né."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:202
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:201
 msgid "You were born here?"
 msgstr "Tu est né ici?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:206
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:205
 msgid ""
 "Yes. I can give you a tour later if you want, though first we shall have to "
 "get in."
@@ -5575,17 +5591,17 @@ msgstr ""
 "d'abord rentrer."
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:210
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:209
 msgid "Is that a refugee camp? Perhaps your friends made it."
 msgstr "Est-ce un camp elfe? Il semblerait que tes amis aient survécu."
 
 #. [message]: type=Spearman
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:243
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:242
 msgid "Halt, who goes there?"
 msgstr "Halte, qui va là?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:247
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:246
 msgid ""
 "A soldier of Wesnoth who was part of an army sent North and who returns with "
 "news... Though, looking around, I would assume at least part of it has "
@@ -5596,7 +5612,7 @@ msgstr ""
 "moins une partie a déjà été reçue."
 
 #. [message]: type=Spearman
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:251
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:250
 msgid ""
 "Understood, you may follow me inside the town to give your report. Your "
 "friends will be housed while you do so."
@@ -5605,22 +5621,22 @@ msgstr ""
 "seront logés pendant ce temps."
 
 #. [message]: speaker=ES
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:266
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:265
 msgid "...Wolfie? ...Haldar?"
 msgstr "...Woufi? ...Haldar?"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:270
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:269
 msgid "Anówien?"
 msgstr "Anówien?"
 
 #. [message]: speaker=ES
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:279
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:278
 msgid "Haldar! How did you get here?"
 msgstr "Haldar! Comment es-tu arrivé ici?"
 
 #. [message]: speaker=HR
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:283
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:282
 msgid ""
 "It is a long story... My companions are Turod, an officer of the Wesnothian "
 "army and Elaessa, a priestess of the Light."
@@ -5629,17 +5645,17 @@ msgstr ""
 "de Wesnoth et Elaessa, une prêtresse de la Lumière."
 
 #. [message]: speaker=ES
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:287
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:286
 msgid "Turod... would you perhaps be friends with Caror, Merynian and Oweomyr?"
 msgstr "Turod… serais-tu ami avec Caror, Merynian et Oweomyr?"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:291
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:290
 msgid "Yes! Did they get back here? Is Caror alive?"
 msgstr "Oui! Ont-ils réussi à se rendre ici? Caror est-il en vie?"
 
 #. [message]: speaker=ES
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:295
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:294
 msgid ""
 "All your friends are alive, they made it back here and are now back fighting "
 "on the front, they made it out of Merlyc. As for Caror, however, that tale "
@@ -5652,19 +5668,395 @@ msgstr ""
 "alliés, j'imagine qu'une escorte ne sera pas nécessaire."
 
 #. [message]: type=Spearman
-#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:299
+#: war_and_home\scenarios\31_Return_To_Wesnoth.cfg:298
 msgid "Indeed, I shall leave you to your reunion."
 msgstr "Effectivement, je vous laisse à votre réunion."
 
 #. [scenario]: id=32_Like_Waves_Upon_The_Rocks
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:6
+msgid "Like Waves Upon The Rocks"
+msgstr "Comme des vagues sur les rochers"
+
+#. [part]
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:148
+msgid ""
+"Anówien told us of how her people and Caror had evaded the orcs by waiting "
+"them out in the North and then sailing down south to end up besides "
+"Merynian, Oweomyr, Lumiclya and Isandir, taking back Merlyc from bandits "
+"before evacuating over the Great River.\n"
+"\n"
+"Now, after having rested a little, they were leading the kingdom's "
+"counterattack with a force of hardened veterans from the previous expedition "
+"and some of the elves of Lintanir, as their main army."
+msgstr ""
+"Anówien nous raconta commet les siens et Caror avaient évité les orcs dans "
+"le Nord en attendant qu'ils partent pour ensuite naviguer vers le sud et "
+"aboutir aux côtés de Merynian, Oweomyr, Lumiclya et Isandir, reprenant "
+"Merlyc des mains de bandits avant d'évacuer en passant par le Grand Fleuve.\n"
+"\n"
+"Maintenant, après s'être reposé un peu, ils menaient la contre-attaque du "
+"royaume avec une armée reposant sur une force de vétérans endurcis de "
+"l'expédition précédente ainsi que des elfes de Lintanir."
+
+#. [part]
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:153
+msgid ""
+"They were fighting in the region of Carcyn, pushing back the orcish forces "
+"there and trying to break through towards Elensefar to relieve its defenders "
+"from the siege they were facing.\n"
+"\n"
+"In parallel, Wesnoth's defences were under great pressure at the ford of "
+"Abez, where the orcs were making repeated assaults to defeat its defenders "
+"and reach the realm's heartlands."
+msgstr ""
+"Ils se battaient dans la région de Carcyn, repoussant les forces orcs là-bas "
+"et essayaient de créer une percée vers Elensefar pour lever le siège auquel "
+"celle-ci faisait face.\n"
+"\n"
+"En parallèle, les défenses de Wesnoth étaient sous intense pression au gué "
+"d'Abez, où les orcs menaient des assauts répétés pour vaincre ses défenseurs "
+"et atteindre le cœur du royaume."
+
+#. [part]
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:158
+msgid ""
+"The orcish attack had cut Wesnoth off from its main ally, Wesmere, as well "
+"as its primary port, Elensefar. These maneuvers had put the kingdom on the "
+"defensive but, though this loss of initiative was a problem, the counter-"
+"offensive was on its way and had quite some potential.\n"
+"\n"
+"The main concern was the series of attacks on the ford of Abez and the "
+"consequences should its defenders fall. Anówien agreed and was going to lead "
+"some elvish and human reinforcements there. However, as they were mostly "
+"fresh recruits, including the officers, she was in need of some veterans to "
+"assist and proposed to the city's commander that I lead this force as well, "
+"something to which he readily agreed."
+msgstr ""
+"L'attaque orc avait coupée Wesnoth de son allié principal, Wesmere, ainsi "
+"que de son plus grand port, Elensefar. Ces manœuvres avaient mis le royaume "
+"sur la défensive mais, bien que cette perte d'initiative soit un problème, "
+"la contre-offensive était en cours et avait un grand potentiel.\n"
+"\n"
+"Le plus gros souci était la série d'attaques sur le gué d'Abez et les "
+"conséquences si ses défenseurs tombaient. Anówien était d'accord et mènerait "
+"des renforts elfes et humains là-bas. Cependant, comme ceux-ci étaient "
+"surtout des recrues inexpérimentées, incluant les officiers, elle était en "
+"manque de vétérans pour l'assister et proposa au commandant de la ville que "
+"je mène cette force aussi, une suggestion qu'il approuva sans délai."
+
+#. [part]
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:163
+msgid ""
+"And so we headed to the Ford, Haldar and Wolfie standing beside Anówien, "
+"happy to be reunited, while Elaessa was with me at the head of the human "
+"detachment. Though the situation was serious, with a great war firmly upon "
+"us, I found solace in the fact that all my friends had survived the return "
+"from the North with far less support that what they would now have. If we "
+"had all survived that, we would probably survive the rest, would we note?"
+msgstr ""
+"Et ainsi nous nous dirigeâmes vers le gué, Haldar et Woufi aux côtés "
+"d'Anówien, bien contents d'être réunis, pendant qu'Elaessa était avec moi à "
+"la tête du détachement humain. Bien que la situation était sérieuse, avec "
+"une grande guerre devant nous, je me réconfortais en me disant que tous mes "
+"amis avaient survécu le retour du Nord avec bien moins de support que ce "
+"qu'ils auraient maintenant. Si nous avions tous survécu à cela, nous "
+"survivrions probablement au reste aussi, n'est-ce pas?"
+
+#. [part]
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:166
+msgid ""
+"Chapter Thirty-Two\n"
+"<i>Like Waves Upon The Rocks</i>"
+msgstr ""
+"Chapitre Trente-Deux\n"
+"<i>Comme des vagues sur les rochers</i>"
+
+#. [message]: speaker=HG1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:250
+msgid "Hold the line, push them back!"
+msgstr "Tenez et repoussez-les!"
+
+#. [message]: speaker=B1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:254
+msgid "Forward! Kill them all and their realm will be ours!"
+msgstr "Avancez! Tuez-les et leur royaume sera à nous!"
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:258
+msgid "It seems that we have arrived during an assault."
+msgstr "Il semblerait que nous sommes arrivés durant un assaut."
+
+#. [message]: speaker=HG1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:262
+msgid ""
+"Reinforcements, finally!... Is that you, Turod? It seems reports of your "
+"death were exaggerated."
+msgstr ""
+"Des renforts, finalement!... Est-ce toi, Turod? Il semblerait que les "
+"nouvelles de ta mort furent exagérées."
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:266
+msgid ""
+"They were indeed, general Morain. In any case, we are here to provide "
+"assistance."
+msgstr ""
+"Ils l'étaient effectivement, général Morain. Mais peu importe, nous sommes "
+"ici pour fournir de l'aide."
+
+#. [message]: speaker=HG1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:270
+msgid "Excellent. Help us push them back before their reinforcements arrive!"
+msgstr ""
+"Excellent. Aidez-nous à les repousser avant que leurs renforts n'arrivent!"
+
+#. [message]: speaker=HG1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:285
+msgid ""
+"They still hold too much ground, their reinforcements will turn the tide!"
+msgstr "Ils ont encore trop de terrain, leurs renforts nous achèverons!"
+
+#. [message]: speaker=B1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:296
+msgid "Aargh... must... retreat!"
+msgstr "Aargh… je dois… battre en… retraite!"
+
+#. [message]: speaker=HG1
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:300
+msgid "Good, press the advantage, they will be disorganized!"
+msgstr "Bien, conservons l'avantage et avançons, ils seront désorganisés!"
+
+#. [message]: speaker=HR
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:309
+msgid "They have been driven back beyond the shore!"
+msgstr "Ils ont été repoussé au-delà de la rive!"
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:313
+msgid "Understood, now we press on and rout them!"
+msgstr "Bien compris, maintenant continuons et mettons les en déroute!"
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:317
+msgid "Indeed, forward!"
+msgstr "C'est cela, en avant!"
+
+#. [scenario]: id=33_Cornered_And_Slain
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:10
+msgid "Cornered and Slain"
+msgstr "Coincés et tués"
+
+#. [part]
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:150
+msgid ""
+"While some of our cavalry harassed the retreating orcish forces, we met with "
+"general Morain to plan our next move, as the orcish rout from the region had "
+"opened new possibilities that could be quite interesting to exploit.\n"
+"\n"
+"We decided, as news came that the orcs' retreat took them towards Wesmere, "
+"to head there and pincer them with the elvish forces that would no doubt be "
+"defending the forest while leaving a small garrison here to help the defence "
+"of the Ford."
+msgstr ""
+"Alors que nos cavaliers pourchassaient les forces orcs qui battaient en "
+"retraite, nous rencontrions le général Morain pour planifier notre prochain "
+"mouvement, car la déroute orc créait de nouvelles possibilités qui seraient "
+"intéressantes à exploiter.\n"
+"\n"
+"Il fut décidé, alors que des nouvelles arrivèrent qui indiquaient que les "
+"restes des orcs se dirigeaient vers Wesmere, de s'y rendre à notre tour et "
+"de les prendre en tenaille là-bas avec les forces elfes qui seraient sans "
+"aucun doute en train de défendre la forêt, tout en laissant une petite "
+"garnison ici pour défendre le gué."
+
+#. [part]
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:155
+msgid ""
+"While traveling there, I talked with general Morain regarding what had "
+"happened during the expedition in the North, explaining what took place, how "
+"I had ended up desperately commanding the evacuation and, in the end, the "
+"rearguard delaying action.\n"
+"\n"
+"It was the first time I had talked about it all with someone who could "
+"understand, who knew what it was like to lead soldiers, and who could "
+"alleviate the ever-present fear that I had done something wrong, somewhere "
+"along the way."
+msgstr ""
+"Pendant que nous nous dirigions vers la forêt, je discutais avec le général "
+"Morain concernant ce qui était arrivé lors de l'expédition vers le Nord, "
+"expliquant ce qui c'était déroulé, comment j'avais fini commandant "
+"désespérément l'évacuation et, à la fin, le combat de l'arrière-garde.\n"
+"\n"
+"C'était la première fois que je discutais de tout cela avec quelqu'un qui "
+"pouvait comprendre, qui savait ce que c'était que de mener des soldats et "
+"qui pourrait soulager mes craintes omniprésentes que j'avais fait une erreur "
+"à un moment donné."
+
+#. [part]
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:160
+msgid ""
+"We soon arrived on the edge of the forest, where the orcs were regrouping "
+"their survivors with the forces attacking Wesmere.\n"
+"\n"
+"To prevent them from fleeing, Anówien had led her forces slightly to the "
+"north, to cut off any escape route through the mountains."
+msgstr ""
+"Nous arrivâmes bientôt à l'orée de la forêt, là où les orcs regroupaient "
+"leurs survivants avec les forces attaquant Wesmere.\n"
+"\n"
+"Pour éviter qu'ils ne puissent fuir, Anówien avait mené ses forces "
+"légèrement au nord, pour couper une fuite par les montagnes."
+
+#. [part]
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:165
+msgid ""
+"The encirclement was in place, now all we needed to do was to finish this."
+msgstr "L'encerclement était complété, il ne restait plus qu'à en finir."
+
+#. [part]
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:168
+msgid ""
+"Chapter Thirty-Three\n"
+"<i>Cornered And Slain</i>"
+msgstr ""
+"Chapitre Trente-trois\n"
+"<i>Coincés et tués</i>"
+
+#. [message]: speaker=AS
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:186
+msgid ""
+"So, the orcs have obtained some reinforcements, interesting... though these "
+"do seem too exhausted to be such..."
+msgstr ""
+"Les orcs ont donc obtenu des renforts, intéressant… ceci dit ils semblent en "
+"trop mauvaise forme pour vraiment en être..."
+
+#. [message]: speaker=OL
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:190
+msgid "What happened, warlord Bakor?"
+msgstr "Qu'est-ce qui est arrivé, seigneur de guerre Bakor?"
+
+#. [message]: speaker=B1
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:194
+msgid ""
+"The humans, assisted by some elves, have pushed us back! Prepare for an "
+"attack!"
+msgstr ""
+"Les humains, aidés par des elfes, nous ont repoussé! Préparez vous pour une "
+"attaque!"
+
+#. [message]: speaker=OL
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:198
+msgid ""
+"A shameful display... and to think that you were one of Great Chief Vrodar's "
+"most trusted servants."
+msgstr ""
+"Quelle conduite pathétique… et dire que tu étais l'un des plus grands "
+"conseillers du Grand Chef Vrodar."
+
+#. [message]: speaker=B1
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:202
+msgid "You utter fool, this is no time for—"
+msgstr "Pauvre idiot, ce n'est pas le moment pour ces—"
+
+#. [message]: speaker=HG1
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:206
+msgid "They ran quite far..."
+msgstr "Ils ont couru bien loin..."
+
+#. [message]: speaker=HR
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:210
+msgid "But now no more. Let us end them."
+msgstr "Mais ils n'ont plus d'endroit ou fuir. Mettons-y fin."
+
+#. [message]: speaker=B1
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:214
+msgid "We must break through now or we will all die!"
+msgstr "Nous devons nous créer un passage maintenant ou nous mourrons tous!"
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:223
+msgid ""
+"This is taking too long, at this rate some of their reinforcements will be "
+"able to mount an attack on the Ford before we finish this!"
+msgstr ""
+"C'est en train de prendre bien trop de temps, à ce rythme certains de leurs "
+"renforts pourront lancer une attaque contre le Gué avant que nous en ayons "
+"fini!"
+
+#. [message]: speaker=B1
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:236
+msgid "No, this cannot be!"
+msgstr "Non, c'est impossible!"
+
+#. [message]: speaker=second_unit
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:240
+msgid "That is what all those like you deserve!"
+msgstr "C'est ce que tous ceux comme toi méritent!"
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:250
+msgid ""
+"With their leaders dead, the remaining troops should not be too much of a "
+"problem to handle."
+msgstr ""
+"Avec leurs chefs morts, les troupes restantes ne devraient pas être trop "
+"difficile à gérer."
+
+#. [message]: speaker=AS
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:254
+msgid ""
+"Indeed, and I am thankful for your assistance. They have lost quite a few "
+"soldiers, this will give us an advantage in the war."
+msgstr ""
+"Effectivement, et je suis reconnaissante pour votre aide. Ils ont perdu de "
+"nombreux guerriers, ceci devrait nous donner un avantage pour la guerre."
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:258
+msgid ""
+"Quite right, lady Nilmadia, and let us hope this victory will be the first "
+"of many."
+msgstr ""
+"Bien dit, dame Nilmadia, et puissions nous espérer que cette victoire soit "
+"la première de plusieurs."
+
+#. [message]: speaker=AS
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:262
+msgid ""
+"Let us make it so, o Silent Princess... In any case, you should all come "
+"with me, there are matters—"
+msgstr ""
+"Qu'il en soit ainsi, ô Princesse Silencieuse… En aucun cas, vous devriez "
+"tous venir avec moi, il y a plusieurs affaires—"
+
+#. [message]: type=Elvish Lord
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:284
+msgid "(<i>Whispers something to Nilmadia </i>)"
+msgstr "(<i>Murmure quelque chose à Nilmadia</i>)"
+
+#. [message]: speaker=AS
+#: war_and_home\scenarios\33_Cornered_And_Slain.cfg:288
+msgid ""
+"It seems victories will follow indeed, human and elvish forces led by your "
+"northern princess have relieved Elensefar and are sieging Glamdrol as we "
+"speak. Come, let us head within the forest, that we may have a proper war "
+"council."
+msgstr ""
+"Il semblerait que les victoires suivront bel et bien, des forces humaines et "
+"elfiques ont levé le siège d'Elensefar et sont présentement aux portes de "
+"Glamdrol. Venez, entrons dans la forêt, que nous puissions entamer un "
+"conseil de guerre digne de ce nom."
+
+#. [scenario]: id=34_Battle_of_Carcyn
 #. [scenario]: id=X1_The_Last_Shore
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:10
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:10
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:14
 msgid "The Last Shore"
 msgstr "La dernière rive"
 
 #. [part]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:74
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:74
 msgid ""
 "Chapter ???\n"
 "<i>The Last Shore</i>"
@@ -5673,7 +6065,7 @@ msgstr ""
 "<i>La dernière rive</i>"
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:92
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:92
 msgid ""
 "This will end the campaign. That way, you can see the credits (where the art "
 "comes from, the translations, etc.). However, it will, as it implies, end "
@@ -5687,32 +6079,32 @@ msgstr ""
 "de faire une sauvegarde manuelle avant de continuer."
 
 #. [option]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:94
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:94
 msgid "No:"
 msgstr "Non:"
 
 #. [option]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:95
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:95
 msgid "This was a mistake, let me go back!"
 msgstr "C'était une erreur, laissez-moi reculer!"
 
 #. [option]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:99
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:99
 msgid "Yes:"
 msgstr "Oui:"
 
 #. [option]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:100
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:100
 msgid "I have saved, I want to see who did what!"
 msgstr "J'ai sauvegardé, je veux voir qui a fait quoi!"
 
 #. [label]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:119
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:119
 msgid "To the credits"
 msgstr "Vers les crédits"
 
 #. [label]
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:120
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:120
 msgid ""
 "Stepping here will offer the option to end the campaign and move on to the "
 "credits."
@@ -5721,25 +6113,25 @@ msgstr ""
 "crédits."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:143
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:143
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:96
 msgid "(<i>Slowly wakes up on the sand</i>) Ugh... Where am I?"
 msgstr "(<i>En se réveillant sur la plage</i>) Ouch… Où suis-je?"
 
 #. [message]: speaker=WM
 #. [message]: speaker=WMDream
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:148
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:148
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:100
 msgid "Oh! Turod, you finally woke up!"
 msgstr "Oh Turod, tu t'es finalement réveillé!"
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:152
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:152
 msgid "Elaessa? Where are we?"
 msgstr "Elaessa? Où sommes-nous?"
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:156
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:156
 msgid ""
 "I think this place is the last shore from the old tales of the Church. It is "
 "where some choose to linger before crossing the Distant Sea."
@@ -5749,19 +6141,19 @@ msgstr ""
 "traverser la Lointaine Mer."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:160
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:160
 msgid "Well, I am grateful you waited for me."
 msgstr "En tout cas, je suis reconnaissant que tu m'aies attendu."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:164
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:164
 msgid "I—it was not a problem... You saved me once, I can wait a little..."
 msgstr ""
 "Ce—ce n'était pas un problème… Tu m'as sauvé la vie, je peux patienter un "
 "petit peu..."
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:169
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:169
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:117
 msgid ""
 "This is currently the end of the campaign. You should save here to continue "
@@ -5771,13 +6163,13 @@ msgstr ""
 "continuer quand de nouveaux scénarios seront ajouté par une mise à jour."
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:179
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:179
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:126
 msgid "I think it is time to go."
 msgstr "Je pense qu'il est temps d'y aller."
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:193
+#: war_and_home\scenarios\34_Battle_of_Carcyn.cfg:193
 msgid "Well then, let us see what is beyond this sea."
 msgstr "Très bien, allons voir ce qu'il y a après cette mer."
 
@@ -5860,6 +6252,38 @@ msgstr "boule de feu"
 #: war_and_home\units\Autumn_Shyde.cfg:8
 msgid "Autumn Shyde"
 msgstr "Nymphe de l'automne"
+
+#. [unit_type]: id=Autumn Shyde, race=elf
+#: war_and_home\units\Autumn_Shyde.cfg:24
+msgid ""
+"Though most of those who become elven shydes have achieved a bond with "
+"nature in all its forms, some instead find themselves more attracted to its "
+"cyclical side and reach an intimate understanding of a specific aspect that "
+"calls to their hearts. From amongst those ranks come the autumn shydes, who "
+"feel most kinship with that season. They are often prudent and wise, as "
+"befits those who understand the most that winter and with it harder times "
+"may soon come, and their counsel is rightly valued for such insights, though "
+"one should not forget they are also powerful warriors who wield whirlwinds "
+"of sharp leaves with which they bring down their foes through a torrent of "
+"cuts."
+msgstr ""
+"Bien que la grande majorité de celles qui deviennent des nymphes elfes ont "
+"formé un lien avec la nature sous toutes ses formes, certaines se trouvent "
+"plutôt fortement attirées vers son côté cyclique et atteignent une "
+"compréhension étroite d'un aspect spécifique qui résonne avec elles. Parmi "
+"celles-ci se trouvent les nymphes de l'automne, pour lesquelles leur lien le "
+"plus intime est avec cette saison. Elles sont souvent prudentes et sages, "
+"comme il se doit pour celles qui savent le mieux que l'hiver, et avec lui "
+"des temps plus durs, arrive bientôt, et leur avis est souvent bien appréciés "
+"pour ces connaissances, bien qu'il ne faudrait pas oublier qu'elles sont "
+"aussi de puissantes guerrières qui manient des tourbillons de feuilles "
+"acérées avec lesquelles elles vainquent leurs ennemis par une multitude de "
+"lacérations."
+
+#. [attack]: type=blade
+#: war_and_home\units\Autumn_Shyde.cfg:49
+msgid "falling leaves"
+msgstr "feuilles tombantes"
 
 #. [unit_type]: id=Brash Noble
 #: war_and_home\units\Brash_Noble.cfg:7
@@ -6131,15 +6555,8 @@ msgstr ""
 "shadowm) de l'extension After the Storm, spécifiquement l'unité Elvish "
 "Avatar."
 
-#. [attack]: type=impact
 #. [attack]: type=cold
-#: war_and_home\units\Winter_Shyde.cfg:38
-#: war_and_home\units\Winter_Shyde.cfg:51
-msgid "faerie touch"
-msgstr "doigt de fée"
-
-#. [attack]: type=cold
-#: war_and_home\units\Winter_Shyde.cfg:65
+#: war_and_home\units\Winter_Shyde.cfg:69
 msgid "frostheart"
 msgstr "cœur de l'hiver"
 
@@ -6193,30 +6610,30 @@ msgid "Wolfie"
 msgstr "Woufi"
 
 #: war_and_home\utils\characters.cfg:369
-msgid "Dionli"
-msgstr "Dionli"
+msgid "Nilmadia"
+msgstr "Nilmadia"
 
-#: war_and_home\utils\characters.cfg:387
+#: war_and_home\utils\characters.cfg:390
 msgid "Elzear"
 msgstr "Elzéar"
 
-#: war_and_home\utils\characters.cfg:407
+#: war_and_home\utils\characters.cfg:410
 msgid "Vrodar"
 msgstr "Vrodar"
 
-#: war_and_home\utils\characters.cfg:420
+#: war_and_home\utils\characters.cfg:423
 msgid "Bakor"
 msgstr "Bakor"
 
-#: war_and_home\utils\characters.cfg:431
+#: war_and_home\utils\characters.cfg:435
 msgid "Kobar"
 msgstr "Kobar"
 
-#: war_and_home\utils\characters.cfg:442
+#: war_and_home\utils\characters.cfg:447
 msgid "Losh Kar"
 msgstr "Losh Kar"
 
-#: war_and_home\utils\characters.cfg:453
+#: war_and_home\utils\characters.cfg:458
 msgid "Hirag"
 msgstr "Hirag"
 
@@ -6333,6 +6750,12 @@ msgstr ""
 "Si laissées à elles-mêmes, ces maladies peuvent s'envenimer et avoir des "
 "conséquences déplorables pour les victimes… ainsi que pour toute pauvre âme "
 "aux alentours."
+
+#~ msgid "faerie touch"
+#~ msgstr "doigt de fée"
+
+#~ msgid "Dionli"
+#~ msgstr "Dionli"
 
 #~ msgid "Really? I wouldn't know where to go once there, though..."
 #~ msgstr ""
