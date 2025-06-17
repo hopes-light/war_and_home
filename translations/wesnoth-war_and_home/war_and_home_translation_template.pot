@@ -439,7 +439,7 @@ msgstr ""
 
 #. [message]: speaker=HG1
 #: war_and_home\scenarios\01_Rescue.cfg:309
-msgid "They call for an emergency and don't even say why... I am General Sidry of the Wesnothian Army, is the situation dealt with?"
+msgid "They call for an emergency and don't even say why... I am General Morain of the Wesnothian Army, is the situation dealt with?"
 msgstr ""
 
 #. [message]: speaker=MC
@@ -513,7 +513,7 @@ msgstr ""
 
 #. [part]
 #: war_and_home\scenarios\02_A_Practice_Bout.cfg:148
-msgid "After the skirmish, General Sidry offered to take us to an officer training school he was supposed to oversee, saying he saw potential within us. This was a far better offer than life in the town guard, and we took it without a second thought."
+msgid "After the skirmish, General Morain offered to take us to an officer training school he was supposed to oversee, saying he saw potential within us. This was a far better offer than life in the town guard, and we took it without a second thought."
 msgstr ""
 
 #. [part]
