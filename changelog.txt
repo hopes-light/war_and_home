@@ -1,0 +1,5 @@
+0.7.0:
+ - Added 5 scenarios after the previous ones (2 battles, 3 dialogue)
+ - Modified gold in scenarios 22-26 (to player's advantage)
+ - Added a way to see the credits when the "waiting" scenario is reached
+ - Added the changelogs to the actual campaign files...

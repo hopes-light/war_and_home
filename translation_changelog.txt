@@ -1,0 +1,11 @@
+0.6.1 - > 0.7.0
+    "one of their leader" -> "one of their leaders" (plural)
+    "'ve" to "have"
+    "Elaessa, ready to fight?" -> "(<i>To Elaessa</i>) Ready to fight?"
+
+    All of these should already be fixed in the po/pot files packaged with the addon:
+    Removal of double spaces
+    Wesntoh -> Wesnoth
+
+
+Started noting it down at this point
