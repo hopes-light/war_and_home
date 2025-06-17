@@ -12,6 +12,7 @@ images/portraits/mornchild.png
 images/portraits/winter.png
 images/portraits/archer.png
 images/portraits/remnant.png
+images/portraits/elzear.png
 
 images/title.png
 
@@ -21,12 +22,17 @@ The artworks within the following directories are derivatives of Battle for Wesn
 images/units/high_lady
 images/units/rebel
 images/units/remnant
+images/units/gryphon/MC
+images/units/gryphon/HR
+images/units/gryphon/WM
 
 
 The following artworks are under Copyright (C) 2006 - 2021 by Iris Morelle <shadowm@wesnoth.org> and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 images/units/avatar.png
 
+
 The following artworks are licensed under the GNU GPL version 2 or later and derivatives of artwork under Copyright (C) 2006 - 2021 by Iris Morelle <shadowm@wesnoth.org> licensed under the GNU GPL version 2 or later.
 
 images/portraits/haldar.png (original: erathan.png in the Invasion from the Unknown campaign)
+images/scenery/remnant_statue.png (original: shaman-statue-e.png in the Invasion from the Unknown campaign)
