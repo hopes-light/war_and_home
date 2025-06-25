@@ -4975,7 +4975,7 @@ msgstr ""
 
 #. [message]: speaker=HR
 #: war_and_home\scenarios\38_Reunion_In_Wesmere.cfg:275
-msgid "I see. You did say he was an upstanding youg man, right?"
+msgid "I see. You did say he was an upstanding young man, right?"
 msgstr ""
 
 #. [message]: speaker=ES

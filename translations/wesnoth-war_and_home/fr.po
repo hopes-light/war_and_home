@@ -6722,7 +6722,7 @@ msgstr "M—mère!"
 
 #. [message]: speaker=HR
 #: war_and_home\scenarios\38_Reunion_In_Wesmere.cfg:275
-msgid "I see. You did say he was an upstanding youg man, right?"
+msgid "I see. You did say he was an upstanding young man, right?"
 msgstr "Je vois. Tu avais dis que c'était un bon garçon, n'est-ce pas?"
 
 #. [message]: speaker=ES
