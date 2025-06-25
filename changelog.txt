@@ -1,3 +1,12 @@
+1.0.0:
+ - Added 6 scenarios after the previous ones (4 battles), the campaign should be complete
+ - Removed peasants from recall list post-scenario 1 if the enemy leader was killed
+ - Modified scenario 2 so allied leaders will be saved with their xp before dying
+ - Fixed scenario 8's victory conditions (defeating all enemy leaders is meant to be impossible)
+ - Added orcish corpses in scenario 20 and 21
+ - Fixed some spelling/grammar/language errors
+ - Fixed some carryover/gold problems in scenario 38
+
 0.9.1:
  - Added updated japanese translations
  - Fixed a few writing errors
