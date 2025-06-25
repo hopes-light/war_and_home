@@ -1,3 +1,13 @@
+0.9.1:
+ - Added updated japanese translations
+ - Fixed a few writing errors
+ - Fixed bug in scenario 11 where overwritten variables would lead to the orcs appearing right away
+ - Made the Elvish High Lady and Elvish Sovereign
+ - Added her intended movement set to the Winter Shyde
+ - Fixed the master at arms in Elensefar becoming a marshal on the scenario-intro pictures
+ - Scenario 34: swapped starting villages for side 3-4
+ - Scenario 37: Moved orcish unit out of water
+
 0.9.0:
  - Added 5 scenarios after the previous ones (3 battles)
  - Modified scenarios 11 and 19 so that you lose if enemies get closer to the docks than you are (checked at the end of the player turn)
