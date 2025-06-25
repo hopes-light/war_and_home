@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-11-17 16:29 UTC\n"
+"POT-Creation-Date: 2024-12-25 04:53 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,6 +217,13 @@ msgstr ""
 #. [scenario]: id=36_A_Legend_Of_The_Elves
 #. [scenario]: id=37_Flames_Over_Glamdrol
 #. [scenario]: id=38_Reunion_In_Wesmere
+#. [scenario]: id=39_War_Council
+#. [scenario]: id=40_Doors_Of_Knalga
+#. [scenario]: id=41_Secure_Merlyc
+#. [scenario]: id=42_The_Crossing
+#. [scenario]: id=43_Where_Monsters_Fought
+#. [scenario]: id=44_The_Final_Battle
+#. [scenario]: id=45_Epilogue
 #: war_and_home\scenarios\01_A_Practice_Bout.cfg:38
 #: war_and_home\scenarios\02_Port_Assignement.cfg:38
 #: war_and_home\scenarios\03_Port_Assignement.cfg:39
@@ -233,8 +240,8 @@ msgstr ""
 #: war_and_home\scenarios\06_Evacuate.cfg:80
 #: war_and_home\scenarios\07_The_North_Fall.cfg:56
 #: war_and_home\scenarios\07_The_North_Fall.cfg:125
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:41
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:90
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:40
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:89
 #: war_and_home\scenarios\09_Lose_The_Orcs.cfg:43
 #: war_and_home\scenarios\09_Lose_The_Orcs.cfg:91
 #: war_and_home\scenarios\10_Hold_The_Line.cfg:55
@@ -279,15 +286,28 @@ msgstr ""
 #: war_and_home\scenarios\33_Cornered_And_Slain.cfg:36
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:44
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:97
-#: war_and_home\scenarios\35_Elensefar.cfg:34
-#: war_and_home\scenarios\35_Elensefar.cfg:87
+#: war_and_home\scenarios\35_Elensefar.cfg:39
+#: war_and_home\scenarios\35_Elensefar.cfg:92
 #: war_and_home\scenarios\36_A_Legend_Of_The_Elves.cfg:32
 #: war_and_home\scenarios\36_A_Legend_Of_The_Elves.cfg:87
 #: war_and_home\scenarios\37_Flames_Over_Glamdrol.cfg:40
 #: war_and_home\scenarios\37_Flames_Over_Glamdrol.cfg:93
 #: war_and_home\scenarios\38_Reunion_In_Wesmere.cfg:32
-#: war_and_home\scenarios\38_Reunion_In_Wesmere.cfg:68
-#: war_and_home\scenarios\39_War_Council.cfg:42
+#: war_and_home\scenarios\38_Reunion_In_Wesmere.cfg:70
+#: war_and_home\scenarios\39_War_Council.cfg:32
+#: war_and_home\scenarios\39_War_Council.cfg:117
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:38
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:116
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:49
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:129
+#: war_and_home\scenarios\42_The_Crossing.cfg:34
+#: war_and_home\scenarios\42_The_Crossing.cfg:113
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:51
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:130
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:56
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:134
+#: war_and_home\scenarios\45_Epilogue.cfg:35
+#: war_and_home\scenarios\45_Epilogue.cfg:44
 #: war_and_home\scenarios\Test.cfg:34
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:45
 msgid "Wesnoth"
@@ -468,37 +488,37 @@ msgid "Good, competent people. The army will run down what remains, and in the m
 msgstr ""
 
 #. [message]: speaker=CF
-#: war_and_home\scenarios\01_Rescue.cfg:329
+#: war_and_home\scenarios\01_Rescue.cfg:331
 msgid "No! They won't find their way in the dark!"
 msgstr ""
 
 #. [message]: speaker=BL1
-#: war_and_home\scenarios\01_Rescue.cfg:344
+#: war_and_home\scenarios\01_Rescue.cfg:346
 msgid "How!?"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\01_Rescue.cfg:354
+#: war_and_home\scenarios\01_Rescue.cfg:356
 msgid "There, this is over."
 msgstr ""
 
 #. [message]: speaker=unit
-#: war_and_home\scenarios\01_Rescue.cfg:374
+#: war_and_home\scenarios\01_Rescue.cfg:376
 msgid "Thank you for getting me out!"
 msgstr ""
 
 #. [message]: speaker=CF
-#: war_and_home\scenarios\01_Rescue.cfg:381
+#: war_and_home\scenarios\01_Rescue.cfg:383
 msgid "Yes! We got'em out!"
 msgstr ""
 
 #. [message]: speaker=BL1
-#: war_and_home\scenarios\01_Rescue.cfg:385
+#: war_and_home\scenarios\01_Rescue.cfg:387
 msgid "This is pointless, run away!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: war_and_home\scenarios\01_Rescue.cfg:394
+#: war_and_home\scenarios\01_Rescue.cfg:396
 msgid "Thank you for the help, please get my friend out!"
 msgstr ""
 
@@ -589,94 +609,94 @@ msgid "Begin the battle!"
 msgstr ""
 
 #. [message]: speaker=HG1
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:222
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:250
 msgid "And so it ends, the trainees are victorious!"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:226
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:254
 msgid "Perhaps we are not that bad, now are we?"
 msgstr ""
 
 #. [message]: speaker=NG
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:230
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:258
 msgid ""
 "I told you this was foolish, brother...\n"
 "Your pride is misplaced and you would be better served by listening from the experienced ones."
 msgstr ""
 
 #. [message]: speaker=NB
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:235
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:263
 msgid "Fine... Do forgive me for my presomptuousness."
 msgstr ""
 
 #. [message]: speaker=CF
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:239
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:267
 msgid "Don't care. Why are yall standing about, let's go drink!"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:255
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:283
 msgid "I have things to do, why am I here..."
 msgstr ""
 
 #. [message]: speaker=NG
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:267
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:295
 msgid "Sorry about this..."
 msgstr ""
 
 #. [message]: speaker=NB
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:279
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:307
 msgid "Let us be done with this farce!"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:293
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:321
 msgid "Ah!... That hurts..."
 msgstr ""
 
 #. [message]: speaker=HG2
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:297
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:325
 msgid "Turod is out."
 msgstr ""
 
 #. [message]: speaker=CF
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:323
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:358
 msgid "Urrgh! I'm down!"
 msgstr ""
 
 #. [message]: speaker=HG1
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:327
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:362
 msgid "Caror is out."
 msgstr ""
 
 #. [message]: speaker=NG
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:353
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:395
 msgid "Aiiie!"
 msgstr ""
 
 #. [message]: speaker=HG1
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:357
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:399
 msgid "Merinyan is down."
 msgstr ""
 
 #. [message]: speaker=NB
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:369
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:411
 msgid "How! This is impossible..."
 msgstr ""
 
 #. [message]: speaker=HG1
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:373
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:415
 msgid "Oweomyr is down."
 msgstr ""
 
 #. [message]: speaker=HG2
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:382
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:424
 msgid "If fresh recruits can hold you at bay then perhaps they are right, they are better then you."
 msgstr ""
 
 #. [message]: speaker=NB
-#: war_and_home\scenarios\02_A_Practice_Bout.cfg:386
+#: war_and_home\scenarios\02_A_Practice_Bout.cfg:428
 msgid "And so the natural order reasserts itself, quite a pleasing sight to behold."
 msgstr ""
 
@@ -694,7 +714,6 @@ msgstr ""
 #. [objectives]
 #. [objective]: condition=win
 #: war_and_home\scenarios\03_Port_Assignement.cfg:24
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:27
 #: war_and_home\scenarios\09_Lose_The_Orcs.cfg:28
 #: war_and_home\scenarios\Test.cfg:19
 #: war_and_home\utils\misc.cfg:13
@@ -840,7 +859,7 @@ msgstr ""
 
 #. [message]: speaker=OL3
 #: war_and_home\scenarios\04_Road_To_Lintanir.cfg:234
-msgid "Ha! They fell in our ambush, the fools!"
+msgid "Ha! They fell for our ambush, the fools!"
 msgstr ""
 
 #. [message]: speaker=HG2
@@ -885,8 +904,10 @@ msgstr ""
 
 #. [side]: id=EL, type=Elvish Marshal
 #. [modify_unit]
+#. [side]: id=UL1, type=Revenant
 #: war_and_home\scenarios\05_A_City_Besieged.cfg:147
 #: war_and_home\scenarios\07_The_North_Fall.cfg:36
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:184
 msgid "Eärindel"
 msgstr ""
 
@@ -991,7 +1012,7 @@ msgstr ""
 
 #. [message]: speaker=HG2
 #: war_and_home\scenarios\05_A_City_Besieged.cfg:408
-msgid "Finally! Turod, push in and find the princess. Caror, help to get the city under control and then head north with your squad to help those druids!"
+msgid "Finally! Turod, push in and find the princess. Caror, help us get the city under control and then head north with your squad to help those druids!"
 msgstr ""
 
 #. [message]: speaker=CF
@@ -1007,7 +1028,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: war_and_home\scenarios\05_A_City_Besieged.cfg:474
 #: war_and_home\scenarios\06_Evacuate.cfg:321
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:218
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:217
 #: war_and_home\scenarios\09_Lose_The_Orcs.cfg:295
 #: war_and_home\scenarios\11_Mourn_Later.cfg:361
 #: war_and_home\scenarios\12_Help_The_Shamans.cfg:215
@@ -1021,8 +1042,9 @@ msgstr ""
 #: war_and_home\scenarios\26_Encircled.cfg:248
 #: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:282
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:299
-#: war_and_home\scenarios\35_Elensefar.cfg:384
+#: war_and_home\scenarios\35_Elensefar.cfg:405
 #: war_and_home\scenarios\37_Flames_Over_Glamdrol.cfg:208
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:383
 msgid "The sound of great wardrums resounds in the distance, announcing death and the end of hope."
 msgstr ""
 
@@ -1311,8 +1333,8 @@ msgstr ""
 #. [side]: id=TL1, type=Troll
 #. [side]: id=OL3, type=Orcish Warrior
 #. [side]: id=OL4, type=Orcish Warrior
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:110
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:123
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:109
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:122
 #: war_and_home\scenarios\09_Lose_The_Orcs.cfg:111
 #: war_and_home\scenarios\10_Hold_The_Line.cfg:129
 #: war_and_home\scenarios\10_Hold_The_Line.cfg:144
@@ -1332,6 +1354,9 @@ msgstr ""
 #: war_and_home\scenarios\19_Not_In_Vain.cfg:178
 #: war_and_home\scenarios\19_Not_In_Vain.cfg:205
 #: war_and_home\scenarios\19_Not_In_Vain.cfg:232
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:64
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:73
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:82
 #: war_and_home\scenarios\22_A_Desolate_Land.cfg:91
 #: war_and_home\scenarios\23_The_Monastery.cfg:95
 #: war_and_home\scenarios\23_The_Monastery.cfg:111
@@ -1349,94 +1374,94 @@ msgid "Orcish Forces"
 msgstr ""
 
 #. [side]: id=TL1, type=Great Troll
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:138
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:137
 msgid "Trolls"
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:157
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:156
 msgid "The flight from the capital was a truly horrible moment for all of us. We were scared of what stood behind us and afraid of what lay ahead."
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:160
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:159
 msgid "The princess recovered slightly from her teacher's death, both through the support of Oweomyr and her duties to her people. It also kept her's as well as Isandir's mind from thinking about the friends whose lives they feared for."
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:163
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:162
 msgid "We had our own to fear for, with Caror stuck somewhere north, and needed to help with the retreat towards safer lands."
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:166
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:165
 msgid "We headed south, trying to reach Wesnoth and safety. The elves' speed in forest as well as General Sidry's sacrifice bought us time and enabled us to avoid major engagements, or at least, until the edge of the woods..."
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:169
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:168
 msgid ""
 "Chapter Eight\n"
 "<i>Flight Through The Woods</i>"
 msgstr ""
 
 #. [message]: speaker=EN
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:187
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:186
 msgid "We are nearing the forest's edge and the beginning of the southern mountains."
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:191
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:190
 msgid "Through the mountains and south of the Listra's tributary there should hopefully be boats, or at least a narrowing of the river, enough for improvised transports."
 msgstr ""
 
 #. [message]: speaker=OL1
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:196
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:195
 msgid "Pillage it all! (<i>He notices the motley crew of humans and elves</i>) Oh my, survivors from Chief Vrodar's assault on Lintanir? We'll finish the job, right, big boy?"
 msgstr ""
 
 #. [message]: speaker=TL1
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:200
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:199
 msgid "Vrodar said so."
 msgstr ""
 
 #. [message]: speaker=EP
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:205
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:204
 msgid "Kill them! They shall pay for our home!"
 msgstr ""
 
 #. [message]: speaker=NG
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:209
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:208
 msgid "(<i>Muttering</i>) We need to hurry south, not kill everything from here to there..."
 msgstr ""
 
 #. [message]: speaker=EP
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:224
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:223
 msgid "N—no! Oh lords please no..."
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:233
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:232
 msgid "Everyone, advance! We need to get through these mountains as fast as possible!"
 msgstr ""
 
 #. [message]: speaker=B4
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:258
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:257
 msgid "And so we finally reach you, scum. Let's finish this!"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:262
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:261
 msgid "He has access to too many reinforcements right now, we won't defeat him like this. Everyone head south!"
 msgstr ""
 
 #. [message]: speaker=B4
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:276
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:275
 msgid "No! I will not disappoint Chief Vrodar! I will return, scum!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:291
+#: war_and_home\scenarios\08_Flight_Through_The_Woods.cfg:290
 msgid "Yes! We have reached the mountains!"
 msgstr ""
 
@@ -2202,6 +2227,12 @@ msgstr ""
 #. [side]: id=OL3, type=Orcish Slurbow
 #. [side]: id=OL4, type=Orcish Ruler
 #. [side]: id=OL5, type=Orcish Warrior
+#. [side]: id=OL3, type=Orcish Warlord
+#. [side]: id=OL4, type=Orcish Slurbow
+#. [side]: id=OL1, type=Orcish Slurbow
+#. [side]: id=OL2, type=Troll Warrior
+#. [side]: id=OL3, type=Direwolf Rider
+#. [side]: id=OL5, type=Orcish Nightblade
 #: war_and_home\scenarios\14_Laying_Low.cfg:141
 #: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:115
 #: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:130
@@ -2209,13 +2240,28 @@ msgstr ""
 #: war_and_home\scenarios\33_Cornered_And_Slain.cfg:127
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:112
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:128
-#: war_and_home\scenarios\35_Elensefar.cfg:139
-#: war_and_home\scenarios\35_Elensefar.cfg:155
-#: war_and_home\scenarios\35_Elensefar.cfg:171
-#: war_and_home\scenarios\35_Elensefar.cfg:187
-#: war_and_home\scenarios\35_Elensefar.cfg:203
+#: war_and_home\scenarios\35_Elensefar.cfg:144
+#: war_and_home\scenarios\35_Elensefar.cfg:160
+#: war_and_home\scenarios\35_Elensefar.cfg:176
+#: war_and_home\scenarios\35_Elensefar.cfg:192
+#: war_and_home\scenarios\35_Elensefar.cfg:208
 #: war_and_home\scenarios\36_A_Legend_Of_The_Elves.cfg:144
 #: war_and_home\scenarios\37_Flames_Over_Glamdrol.cfg:126
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:197
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:226
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:255
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:284
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:162
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:191
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:218
+#: war_and_home\scenarios\42_The_Crossing.cfg:145
+#: war_and_home\scenarios\42_The_Crossing.cfg:173
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:166
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:181
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:197
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:213
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:229
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:245
 msgid "Orcs"
 msgstr ""
 
@@ -2957,6 +3003,7 @@ msgstr ""
 #: war_and_home\scenarios\27_Into_The_Dark.cfg:1065
 #: war_and_home\scenarios\27_Into_The_Dark.cfg:1202
 #: war_and_home\scenarios\27_Into_The_Dark.cfg:1232
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:478
 msgid "Mal Keshar"
 msgstr ""
 
@@ -2981,13 +3028,12 @@ msgstr ""
 #. [objective]: condition=win
 #: war_and_home\scenarios\21_Morning_In_The_Night.cfg:23
 #: war_and_home\scenarios\24_A_Child_Of_Light.cfg:23
-#: war_and_home\scenarios\39_War_Council.cfg:28
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:32
 msgid "End the turn"
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:67
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:94
 msgid ""
 "<i> “A breath of unlife shall ease the way to undeath.”</i>\n"
 "\n"
@@ -2995,29 +3041,29 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:72
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:99
 msgid ""
 "Chapter Twenty-One\n"
 "<i>Morning In The Night</i>"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:105
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:141
 msgid "W—what? How am I alive, I was dying?"
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:116
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:152
 msgid "Is anyone else back up?... No... They still lie here..."
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:127
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:163
 msgid "Are the others all right?... Let us hope we bought them enough time..."
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:138
+#: war_and_home\scenarios\21_Morning_In_The_Night.cfg:174
 msgid "In any case, remaining in the valley with the orcish patrols would be certain death, I need to leave."
 msgstr ""
 
@@ -3563,7 +3609,12 @@ msgid "Remnant"
 msgstr ""
 
 #. [side]
+#. [side]: id=UL1, type=Revenant
+#. [side]: id=UL2, type=Revenant
 #: war_and_home\scenarios\27_Into_The_Dark.cfg:169
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:162
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:179
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:201
 msgid "Undead"
 msgstr ""
 
@@ -3853,7 +3904,7 @@ msgstr ""
 
 #. [message]
 #: war_and_home\scenarios\27_Into_The_Dark.cfg:1067
-msgid "You are nothing more than a fading remnant of a long-lost soul! You have almost no powere left!"
+msgid "You are nothing more than a fading remnant of a long-lost soul! You have almost no power left!"
 msgstr ""
 
 #. [message]: speaker=RT
@@ -4314,7 +4365,7 @@ msgstr ""
 
 #. [part]
 #: war_and_home\scenarios\32_Like_Waves_Upon_The_Rocks.cfg:166
-msgid "And so we headed to the Ford, Haldar and Wolfie standing beside Anówien, happy to be reunited, while Elaessa was with me at the head of the human detachment. Though the situation was serious, with a great war firmly upon us, I found solace in the fact that all my friends had survived the return from the North with far less support that what they would now have. If we had all survived that, we would probably survive the rest, would we note?"
+msgid "And so we headed to the Ford, Haldar and Wolfie standing beside Anówien, happy to be reunited, while Elaessa was with me at the head of the human detachment. Though the situation was serious, with a great war firmly upon us, I found solace in the fact that all my friends had survived the return from the North with far less support than what they would now have. If we had all survived that, we would probably survive the rest, would we not?"
 msgstr ""
 
 #. [part]
@@ -4594,18 +4645,18 @@ msgstr ""
 
 #. [side]: id=HL1, type=Master at Arms
 #. [scenario]: id=35_Elensefar
-#: war_and_home\scenarios\35_Elensefar.cfg:120
+#: war_and_home\scenarios\35_Elensefar.cfg:125
 #: war_and_home\scenarios\35_Elensefar.cfg:6
 msgid "Elensefar"
 msgstr ""
 
 #. [side]: id=HL1, type=Master at Arms
-#: war_and_home\scenarios\35_Elensefar.cfg:125
+#: war_and_home\scenarios\35_Elensefar.cfg:130
 msgid "Lord Mayor"
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\35_Elensefar.cfg:221
+#: war_and_home\scenarios\35_Elensefar.cfg:226
 msgid ""
 "Their morale heightened by this victory, the army headed immediately towards Elensefar to relieve its people and its defenders from the siege they faced.\n"
 "\n"
@@ -4613,7 +4664,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\35_Elensefar.cfg:227
+#: war_and_home\scenarios\35_Elensefar.cfg:232
 msgid ""
 "Though it had managed to hold on, the orcish forces were growing more numerous by the day and had reached the numbers necessary to launch a final assault.\n"
 "\n"
@@ -4621,104 +4672,114 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\35_Elensefar.cfg:233
+#: war_and_home\scenarios\35_Elensefar.cfg:238
 msgid ""
 "Chapter Thirty-Five\n"
 "<i>Elensefar</i>"
 msgstr ""
 
 #. [message]: speaker=HL1
-#: war_and_home\scenarios\35_Elensefar.cfg:254
+#: war_and_home\scenarios\35_Elensefar.cfg:259
 msgid "Hold... the line... keep... fighting!"
 msgstr ""
 
 #. [message]: speaker=EN
-#: war_and_home\scenarios\35_Elensefar.cfg:258
+#: war_and_home\scenarios\35_Elensefar.cfg:263
 msgid "The city will not hold without its commander!"
 msgstr ""
 
 #. [message]: speaker=HL1
-#: war_and_home\scenarios\35_Elensefar.cfg:283
+#: war_and_home\scenarios\35_Elensefar.cfg:288
 msgid "Push the orcs back!"
 msgstr ""
 
 #. [message]: speaker=OL1
-#: war_and_home\scenarios\35_Elensefar.cfg:287
+#: war_and_home\scenarios\35_Elensefar.cfg:292
 msgid "Storm the walls and take the city!"
 msgstr ""
 
 #. [message]: speaker=NG
-#: war_and_home\scenarios\35_Elensefar.cfg:291
+#: war_and_home\scenarios\35_Elensefar.cfg:296
 msgid "The city still holds, forward!"
 msgstr ""
 
 #. [message]: speaker=EP
-#: war_and_home\scenarios\35_Elensefar.cfg:295
+#: war_and_home\scenarios\35_Elensefar.cfg:300
 msgid "The tragedy that befell my home shall not be repeated, these orcs <i>will</i> die."
 msgstr ""
 
 #. [message]: speaker=HL1
-#: war_and_home\scenarios\35_Elensefar.cfg:299
+#: war_and_home\scenarios\35_Elensefar.cfg:304
 msgid "Oh thank the lords, reinforcements!"
 msgstr ""
 
 #. [message]: speaker=CF
-#: war_and_home\scenarios\35_Elensefar.cfg:303
+#: war_and_home\scenarios\35_Elensefar.cfg:308
 msgid "We are here to help, Elensefar shall not fall today!"
 msgstr ""
 
 #. [message]: speaker=OL2
-#: war_and_home\scenarios\35_Elensefar.cfg:307
+#: war_and_home\scenarios\35_Elensefar.cfg:312
 msgid "Take the city and kill them all!"
 msgstr ""
 
 #. [label]
-#: war_and_home\scenarios\35_Elensefar.cfg:335
+#: war_and_home\scenarios\35_Elensefar.cfg:340
 msgid "Pier"
 msgstr ""
 
 #. [label]
-#: war_and_home\scenarios\35_Elensefar.cfg:340
+#: war_and_home\scenarios\35_Elensefar.cfg:345
 msgid "Docks"
 msgstr ""
 
 #. [message]: speaker=HL1
-#: war_and_home\scenarios\35_Elensefar.cfg:344
+#: war_and_home\scenarios\35_Elensefar.cfg:349
 msgid "Our ships can ferry some of your men to the city if you can spare them."
 msgstr ""
 
 #. [message]: speaker=EN
-#: war_and_home\scenarios\35_Elensefar.cfg:348
+#: war_and_home\scenarios\35_Elensefar.cfg:353
 msgid "This could be helpful in pushing out from the city's walls."
 msgstr ""
 
 #. [message]: speaker=EA
-#: war_and_home\scenarios\35_Elensefar.cfg:352
+#: war_and_home\scenarios\35_Elensefar.cfg:357
 msgid "The question is, do we have the soldiers to spare?"
 msgstr ""
 
 #. [message]: speaker=HL1
-#: war_and_home\scenarios\35_Elensefar.cfg:356
+#: war_and_home\scenarios\35_Elensefar.cfg:361
 msgid "In any case, the option is there, should you wish to use it."
 msgstr ""
 
+#. [note]
+#: war_and_home\scenarios\35_Elensefar.cfg:375
+msgid "A ferry links the pier and the docks (you can move units from sides 1 and 2 between them)."
+msgstr ""
+
+#. [note]
+#: war_and_home\scenarios\35_Elensefar.cfg:377
+msgid "A ferry links the pier and the docks (you can move units from side 1 between them)."
+msgstr ""
+
 #. [message]: speaker=NG
-#: war_and_home\scenarios\35_Elensefar.cfg:390
+#: war_and_home\scenarios\35_Elensefar.cfg:411
 msgid "We will not be able to win against more enemy troops, we need to withdraw!"
 msgstr ""
 
 #. [message]: speaker=NB
-#: war_and_home\scenarios\35_Elensefar.cfg:399
+#: war_and_home\scenarios\35_Elensefar.cfg:420
 msgid "They are beaten, the day is ours and the city is saved!"
 msgstr ""
 
 #. [message]: speaker=HL1
-#: war_and_home\scenarios\35_Elensefar.cfg:403
+#: war_and_home\scenarios\35_Elensefar.cfg:424
 msgid "Indeed, and you have the whole city's gratitude!"
 msgstr ""
 
 #. [message]: speaker=EP
-#: war_and_home\scenarios\35_Elensefar.cfg:407
+#: war_and_home\scenarios\35_Elensefar.cfg:428
 msgid "Now let us head northward, to Wesmere and even further."
 msgstr ""
 
@@ -4928,7 +4989,7 @@ msgstr ""
 msgid "Hey, that's mean... True, but mean... Oh hello lady Anówien!"
 msgstr ""
 
-#. [message]: speaker=ES
+#. [message]: speaker=EA
 #: war_and_home\scenarios\38_Reunion_In_Wesmere.cfg:161
 msgid "Ha, you are quite funny... (<i>She notices</i>) M—mother!"
 msgstr ""
@@ -5004,102 +5065,869 @@ msgid "Hello everyone... I am quite happy to see you all again. How have you bee
 msgstr ""
 
 #. [scenario]: id=39_War_Council
-#. [scenario]: id=X1_The_Last_Shore
-#: war_and_home\scenarios\39_War_Council.cfg:10
-#: war_and_home\scenarios\X1_The_Last_Shore.cfg:14
-msgid "The Last Shore"
+#: war_and_home\scenarios\39_War_Council.cfg:6
+msgid "War Council"
+msgstr ""
+
+#. [side]: id=EL1, type=Elvish Marshal
+#: war_and_home\scenarios\39_War_Council.cfg:159
+msgid "Ka'lian"
 msgstr ""
 
 #. [part]
-#: war_and_home\scenarios\39_War_Council.cfg:74
+#: war_and_home\scenarios\39_War_Council.cfg:181
 msgid ""
-"Chapter ???\n"
-"<i>The Last Shore</i>"
+"This unexpected reunion overjoyed Caror, Merynian, Oweomyr, Lumiclya and Isandir. We spent quite some time talking until the council began.\n"
+"\n"
+"This short amount of time was far from enough, however, and we resolved to countinue our discussions afterwards."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\39_War_Council.cfg:186
+msgid ""
+"The Ka'lian was awe-inspiring, at least to us humans. Before us were some of the oldest and wisest beings on the continent, adorned in regalia from before mankind ever reached these shores.\n"
+"\n"
+"And now, we would begin planning the counter-offensive besides them."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\39_War_Council.cfg:191
+msgid ""
+"Chapter Thirty-Nine\n"
+"<i>War Council</i>"
+msgstr ""
+
+#. [message]: speaker=EL1
+#: war_and_home\scenarios\39_War_Council.cfg:210
+msgid "We humbly welcome you amongst us, Princess Lumiclya. Know that we grieve the loss of our kin as well and will spare no effort to see Lintanir retaken."
+msgstr ""
+
+#. [message]: speaker=EL2
+#: war_and_home\scenarios\39_War_Council.cfg:214
+msgid "It seems you have already assembled quite a force and some mighty allies."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\39_War_Council.cfg:219
+msgid "We thank you for your concern. Let us now all endavour to push the orcs back as fast as possible."
+msgstr ""
+
+#. [message]: speaker=AS
+#: war_and_home\scenarios\39_War_Council.cfg:223
+msgid "We shall all strive to accomplish this. Now, let us begin to plan."
+msgstr ""
+
+#. [scenario]: id=40_Doors_Of_Knalga
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:7
+msgid "Doors of Knalga"
+msgstr ""
+
+#. [side]: id=HL2, type=Ranger
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:148
+msgid "Dwarven Doors"
+msgstr ""
+
+#. [side]: id=HL2, type=Ranger
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:153
+msgid "Rhenyc"
+msgstr ""
+
+#. [side]
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:184
+#: war_and_home\scenarios\42_The_Crossing.cfg:186
+msgid "Knalga"
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:314
+msgid ""
+"The plans for the next steps of the war were finally settled. The joint army from Wesnoth and Lintanir would head East and North to free the occupied territories.\n"
+"\n"
+"It would begin by ascertaining the state of Knalga and render aid as needed. Afterwards, it would start freeing the land from orcish subjugation, beginning with Merlyc before heading North, to Lintanir forest."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:319
+msgid ""
+"Wesmere's armies would handle the western passes while Wesnoth's ones would be kept in reserve, as well as assisting in the East. Thus, neither could not spare many soldiers for our forces and both Nilmadia as well as Sidry would return to their previous posts. However, they would provide us with supplies while some impetuous scions of their noble houses decided to help us more directly by joining the army.\n"
+"\n"
+"With these plans we set forth, headed to Dwarven Doors and Knalga, to provide aid and to start pushing back the orcs."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:324
+msgid ""
+"Chapter Fourty\n"
+"<i>Doors of Knalga</i>"
+msgstr ""
+
+#. [message]: speaker=HL2
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:346
+msgid "Hold the line! The dwarfs will be here soon!"
+msgstr ""
+
+#. [message]: speaker=OL2
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:350
+msgid "Your people will die and so will the dwarves!"
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:354
+msgid "The humans have been pushed back quite far and there are no signs of the dwarves. This looks grim."
+msgstr ""
+
+#. [message]: speaker=NG
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:358
+msgid "They will not fall today. We <i>are</i> here, after all."
+msgstr ""
+
+#. [message]: speaker=OL1
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:362
+msgid "Oh my, more fools to play with. I will handle them."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\39_War_Council.cfg:92
-msgid "This will end the campaign. That way, you can see the credits (where the art comes from, the translations, etc.). However, it will, as it implies, end the campaign and thus, depending on your settings, potentially erase your autosaves, so make sure you have a manual save before you do so."
-msgstr ""
-
-#. [option]
-#: war_and_home\scenarios\39_War_Council.cfg:94
-msgid "No:"
-msgstr ""
-
-#. [option]
-#: war_and_home\scenarios\39_War_Council.cfg:95
-msgid "This was a mistake, let me go back!"
-msgstr ""
-
-#. [option]
-#: war_and_home\scenarios\39_War_Council.cfg:99
-msgid "Yes:"
-msgstr ""
-
-#. [option]
-#: war_and_home\scenarios\39_War_Council.cfg:100
-msgid "I have saved, I want to see who did what!"
-msgstr ""
-
-#. [label]
-#: war_and_home\scenarios\39_War_Council.cfg:119
-msgid "To the credits"
-msgstr ""
-
-#. [label]
-#: war_and_home\scenarios\39_War_Council.cfg:120
-msgid "Stepping here will offer the option to end the campaign and move on to the credits."
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:366
+msgid "Because of the reinforcements from the Ka'lian, Lumiclya and Anówien can now recruit elvish nobles."
 msgstr ""
 
 #. [message]: speaker=MC
-#: war_and_home\scenarios\39_War_Council.cfg:143
-#: war_and_home\scenarios\X1_The_Last_Shore.cfg:96
-msgid "(<i>Slowly wakes up on the sand</i>) Ugh... Where am I?"
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:379
+msgid "They will have too much time to fortify their positions at Merlyc, it will be a slaughter we cannot afford!"
+msgstr ""
+
+#. [message]: speaker=NB
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:391
+msgid "Finally, their leaders are dead. Now we need only kill the scattered remnants."
+msgstr ""
+
+#. [message]: speaker=DL1
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:395
+msgid "I thank ye for yer help against the orcs. I assume, by your presence, that both Wesmere and Wesnoth march to war."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:399
+msgid "You assume correctly. We march to push back the orcs as far away as possible. Any assistance your people could render would be greatly appreciated."
+msgstr ""
+
+#. [message]: speaker=DL1
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:403
+msgid "Aye. I shall inform my king of the events of today. Best of luck to you."
+msgstr ""
+
+#. [message]: speaker=HL2
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:415
+msgid "Don't give them any groun—!"
+msgstr ""
+
+#. [message]: id=OL1, OL2
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:419
+msgid "He's dead, now seize what remains of their fortifications!"
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:423
+msgid "It will take far too long to dislodge them from there!"
+msgstr ""
+
+#. [message]: speaker=DL1
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:437
+msgid "Hold, for Knalga, hol—"
+msgstr ""
+
+#. [message]: id=OL1, OL2
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:441
+msgid "Push forward, crush the dwarves!"
 msgstr ""
 
 #. [message]: speaker=WM
-#. [message]: speaker=WMDream
-#: war_and_home\scenarios\39_War_Council.cfg:148
-#: war_and_home\scenarios\X1_The_Last_Shore.cfg:100
-msgid "Oh! Turod, you finally woke up!"
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:445
+msgid "No... This will be a slaughter..."
 msgstr ""
 
-#. [message]: speaker=MC
-#: war_and_home\scenarios\39_War_Council.cfg:152
-msgid "Elaessa? Where are we?"
+#. [message]: speaker=HR
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:463
+msgid "These orcs are quite strong. Progress is far too slow, I fear."
 msgstr ""
 
-#. [message]: speaker=WM
-#: war_and_home\scenarios\39_War_Council.cfg:156
-msgid "I think this place is the last shore from the old tales of the Church. It is where some choose to linger before crossing the Distant Sea."
-msgstr ""
-
-#. [message]: speaker=MC
-#: war_and_home\scenarios\39_War_Council.cfg:160
-msgid "Well, I am grateful you waited for me."
-msgstr ""
-
-#. [message]: speaker=WM
-#: war_and_home\scenarios\39_War_Council.cfg:164
-msgid "I—it was not a problem... You saved me once, I can wait a little..."
+#. [message]: speaker=ES
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:472
+msgid "Perhaps, but what can we do? We do not have more troops we can magically conjure from nothing."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: war_and_home\scenarios\39_War_Council.cfg:169
-#: war_and_home\scenarios\X1_The_Last_Shore.cfg:117
-msgid "This is currently the end of the campaign. You should save here to continue when new scenarios are added through an update."
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:477
+msgid "Suddenly, great noises rang out in the valley, a chorus of war horns bouncing off the mountainside... And with them, the towering gates of Knalga opened."
 msgstr ""
 
-#. [message]: speaker=MC
-#: war_and_home\scenarios\39_War_Council.cfg:179
-#: war_and_home\scenarios\X1_The_Last_Shore.cfg:126
-msgid "I think it is time to go."
+#. [unit]: id=DL1, type=Dwarvish Lord
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:490
+msgid "Nardring"
+msgstr ""
+
+#. [message]: speaker=DL1
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:498
+msgid "Stand strong lads, let's get'em!"
+msgstr ""
+
+#. [message]: speaker=DL1
+#: war_and_home\scenarios\40_Doors_Of_Knalga.cfg:509
+msgid "Wait... what do you mean the orcs are already defeated?"
+msgstr ""
+
+#. [scenario]: id=41_Secure_Merlyc
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:7
+msgid "Secure Merlyc"
+msgstr ""
+
+#. [note]
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:30
+msgid "The orcs will not leave their fortress."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:249
+msgid ""
+"With our rear flank secured as well as promises of help from the dwarves we headed East towards Merlyc to free it from the grasp of the orcs and to use it as a resupply point.\n"
+"\n"
+"What a twist of fate it was for us to return to this place, the site of so many of our battles."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:254
+msgid ""
+"It was quite different from before, however, as the orcs had heavily fortified it, erecting new walls and digging moats.\n"
+"\n"
+"We nonetheless had no choice but to assault it to advance and thus our army readied itself for a pitched battle."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:259
+msgid ""
+"Chapter Fourty-One\n"
+"<i>Secure Merlyc</i>"
+msgstr ""
+
+#. [message]: speaker=NG
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:277
+msgid "And so we return to Merlyc once more. After this I shall be quite happy to never see it again."
+msgstr ""
+
+#. [message]: speaker=CF
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:281
+msgid "But you know it so well, you'll probably be named garrison commander! And it's so close to Lintanir! Isandir can visit all the time!"
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:285
+msgid "(<i>Synchronized, their faces reddening</i>) S—shut up!"
+msgstr ""
+
+#. [message]: speaker=NB
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:289
+msgid "That uh... that joke works on you as well, you do know that, right?"
+msgstr ""
+
+#. [message]: speaker=CF
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:293
+msgid "And on you too, though you'll probably be the one visiting others instead. I'd bet Lumiclya will be busier than you."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:297
+msgid "(<i>Both of them redden as well</i>) S—shut up!"
+msgstr ""
+
+#. [message]: speaker=HR
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:301
+msgid "(<i>To Anówien</i>) It seems he has developed some immunity to such attacks, no doubt thanks to you."
+msgstr ""
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:305
+msgid "Undoubtedly, though our dear daughter has not yet done so."
+msgstr ""
+
+#. [message]: speaker=EA
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:309
+msgid "(<i>Her face beet-red</i>) Mother!... Perhaps we should focus on the battle ahead instead."
+msgstr ""
+
+#. [message]: speaker=HR
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:319
+msgid "They are too well entrenched. We will not be able to take this before their reinforcements arrive or our supplies run out."
+msgstr ""
+
+#. [message]: speaker=B3
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:346
+msgid "Fools... so be it, taste my hammer! For the Great Chief!"
+msgstr ""
+
+#. [message]: speaker=B3
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:358
+msgid "Urk... no, master... If only reinforcements... had come..."
+msgstr ""
+
+#. [message]: speaker=NG
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:365
+msgid "Merlyc is ours. We will eliminate the stragglers and then resupply."
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:369
+msgid "And then onwards, to the North... and Lintanir..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:384
+msgid "The enemy's here!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:392
+msgid "Those fortifications are enormous!"
+msgstr ""
+
+#. [message]: speaker=B3
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:396
+msgid "You won't pass this fortress! We'll stop you here for the Great Chief!"
 msgstr ""
 
 #. [message]: speaker=WM
-#: war_and_home\scenarios\39_War_Council.cfg:193
-msgid "Well then, let us see what is beyond this sea."
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:400
+msgid "They kept themselves busy indeed. I doubt they will venture out of the fortress to fight us."
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:404
+msgid "We will need to force our way in to take Merlyc back."
+msgstr ""
+
+#. [message]: id=OL1, OL2
+#: war_and_home\scenarios\41_Secure_Merlyc.cfg:429
+msgid "They are overrunning us, where are the reinforcements? They were supposed to be here a week ago!"
+msgstr ""
+
+#. [scenario]: id=42_The_Crossing
+#: war_and_home\scenarios\42_The_Crossing.cfg:6
+msgid "The Crossing"
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\42_The_Crossing.cfg:201
+msgid "With our rear flank secured as well as promises of help from the dwarves, we headed East, towards Merlyc to free it from the grasp of the orcs and to use it as a resupply point."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\42_The_Crossing.cfg:204
+msgid ""
+"Chapter Fourty-Two\n"
+"<i>The Crossing</i>"
+msgstr ""
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\42_The_Crossing.cfg:227
+msgid "At this rate we will never reach Lintanir!"
+msgstr ""
+
+#. [scenario]: id=43_Where_Monsters_Fought
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:7
+msgid "Where Monsters Fought"
+msgstr ""
+
+#. [note]
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:28
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:32
+msgid "Cost of movement on frozen terrain (snow, ice, etc.) is reduced to 2 movement points (if it was 3 or more)."
+msgstr ""
+
+#. [side]: id=UL2, type=Revenant
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:206
+#: war_and_home\utils\characters.cfg:99
+msgid "Sidry"
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:225
+msgid ""
+"The journey to Lintanir was surprisingly uneventful as we encountered almost no orc patrols. This, combined with the lack of enemy reinforcements in the previous battle, seemed to imply that the orc garrison had been destroyed or at the very least cut off.\n"
+"\n"
+"While this gave hope to many elves that, somehow, their loved ones had survived, many others could not help but have a sinking feeling that something was deeply wrong."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:230
+msgid ""
+"This unease grew as we neared the city, for even though we began finding many signs of battles, there never were bodies left behind. The forest also seemed to grow ever more sickly as we approached, with more and more trees naught but hollow trunks.\n"
+"\n"
+"However, while this made us quite concerned, it did not change our destination."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:235
+msgid "And so, we stood before the gates of Lintanir much as we did before, wary of whatever we might find within."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:238
+msgid ""
+"Chapter Fourty-Two\n"
+"<i>Where Monsters Fought</i>"
+msgstr ""
+
+#. [message]: speaker=NB
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:260
+msgid "What happened here? The defenses have been rebuilt yet none man them?"
+msgstr ""
+
+#. [message]: speaker=NG
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:264
+msgid "We should proceed cautiou— Oh lords!"
+msgstr ""
+
+#. [message]: speaker=UL1
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:296
+msgid "Kill... Kill..! Kill!"
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:316
+msgid "No... This cannot be..."
+msgstr ""
+
+#. [message]: speaker=EA
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:320
+msgid "What monster could have done this?"
+msgstr ""
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:368
+msgid "To have raised so many... A great darkness is arrayed against us..."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:372
+msgid "Let us grant them peace... and death to the one who raised them..."
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:389
+msgid "Fools! The orcs are here, you have only weakened us all!"
+msgstr ""
+
+#. [message]: speaker=WM
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:400
+msgid "No, we are still fighting the undead! We will be surrounded! Oh lords, please help us!"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:418
+msgid "You fools have ruined my control over these puppets! Fine then, face the orcs yourselves! They are already marching to retake this place!"
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:458
+msgid "He will not escape! Send out patrols to find him, I want his head!"
+msgstr ""
+
+#. [message]: speaker=NB
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:462
+msgid "Lumiclya, I am sorry but the orcs are undoubtedly coming, we must ready ourselves for them."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:466
+msgid "I— I know... damn it all, I know..."
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:509
+msgid "What's all that racket?... Wait, who dares destroy my puppets!"
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:513
+msgid "The armies of Wesnoth and elvenkind, reclaiming Lintanir from your dark claws!"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:517
+msgid "Fools, this was the best way to fight the orcs."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:521
+msgid "You will die for this, foul monster!"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:525
+msgid "No, <i>you will</i>. (<i>To Turod</i>) And as for you, it seems you came back to lead my armies after all."
+msgstr ""
+
+#. [objective]: condition=win
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:531
+msgid "Defeat Mal Keshar"
+msgstr ""
+
+#. [message]: speaker=unit
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:570
+msgid "Rooargh—"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:580
+msgid "No, my dragon! Foolish mortals, I will enjoy breaking you!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:584
+msgid "Good, we brought it down. Onwards, to the lich next!"
+msgstr ""
+
+#. [message]: speaker=UL1
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:600
+msgid "Prin...cess..."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:604
+msgid "Eärindel... I shall free you from this, I swear."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:617
+msgid "You have served long past what duty demanded. Go now, and rest."
+msgstr ""
+
+#. [message]: speaker=UL1
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:621
+msgid "Thank you... my Queen..."
+msgstr ""
+
+#. [message]: race=elf, human
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:641
+msgid "Eärindel... May you find peace."
+msgstr ""
+
+#. [message]: speaker=UL1
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:645
+msgid "Death... Death...! Death!"
+msgstr ""
+
+#. [message]: race=human, elf
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:664
+msgid "Go now, and finally rest."
+msgstr ""
+
+#. [message]: speaker=UL1
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:668
+msgid "Thank you..."
+msgstr ""
+
+#. [message]: speaker=UL1
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:681
+msgid "Care... for her..."
+msgstr ""
+
+#. [message]: speaker=NB
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:685
+msgid "Rest easy, for I shall do so."
+msgstr ""
+
+#. [message]: race=elf, human
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:707
+msgid "General Sidry... We will free you from this wretched state."
+msgstr ""
+
+#. [message]: speaker=UL2
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:711
+msgid "Hate... Hate...! Hate!"
+msgstr ""
+
+#. [message]: speaker=UL2
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:724
+msgid "Protect... the realm..."
+msgstr ""
+
+#. [message]: race=human, elf
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:734
+msgid "We will, rest assured."
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:755
+msgid "I presume you were the one ruling over this ruin? Judging by the number of elven corpses when I arrived, you seem to have failed at that."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:759
+msgid "Silence, foul monster! I will kill you for what you have dared do!"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:773
+msgid "You were meant to be the commander of these forces, it seems you have decided to face your fate!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:777
+msgid "No, I defy it! Today we will grant peace to all these souls you desecrated!"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:791
+msgid "You... you were the one who helped that fool! Without you he would have fallen far faster! You will pay for this!"
+msgstr ""
+
+#. [message]: speaker=WM
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:795
+msgid "G—go back to the darkness, abomination! The light stands against you!"
+msgstr ""
+
+#. [message]: speaker=MK
+#: war_and_home\scenarios\43_Where_Monsters_Fought.cfg:827
+msgid "Come at me if you dare, I am in need of corpses for my forces!"
+msgstr ""
+
+#. [scenario]: id=44_The_Final_Battle
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:6
+msgid "The Final Battle"
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:263
+msgid ""
+"Once the taint of undeath had been thorougly cleansed, we spent what days we had before the arrival of the orcish horde fortifying our positions, repairing the city and organizing supplies.\n"
+"\n"
+"During this time, the dwarves of Knalga sent us as much supplies as they could, greatly increasing our resources, something that was highly appreciated.\n"
+"\n"
+"At the same time, gryphons from Elzear's valley could be seen surveilling the roads north, scouting for the orcs' inevitable arrival, providing valuable advance warning."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:270
+msgid ""
+"Finally, as the eve of the final battle came upon us, we at least felt confident that we were as prepared as possible. We spent most of the evening conversing together before wandering off into smaller groups.\n"
+"\n"
+"Soon after we all went to sleep as this would be a fight for which we would need all of our strength."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:275
+msgid ""
+"Come the dawn, we all readied ourselves for a last struggle. The orcish forces soon appeared before us, more numerous than during his previous assaults, probably because he had intended on dealing with the lich before us.\n"
+"\n"
+"Though these numbers meant the battle would be harder than expected, it also meant that it would be the last one. One more fight to break the horde and free ourselves from its threat."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:280
+msgid ""
+"Chapter Fourty-Three\n"
+"<i>The Final Battle</i>"
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:298
+msgid "So, the elves and humans have defeated those accursed undead. Well then, it is their turn to fall, as they did here once already."
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:302
+msgid "No, in the name of those whom you killed, we shall put you down. This, I swear!"
+msgstr ""
+
+#. [message]: speaker=EN
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:306
+msgid "The orcs shall pay for the death of our people."
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:310
+msgid "Meaningless bravado. You are surrounded, only death awaits you."
+msgstr ""
+
+#. [message]: speaker=NG
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:314
+msgid "Much like it awaited your underlings?"
+msgstr ""
+
+#. [message]: speaker=NB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:318
+msgid "You are alone, and you will die just like they did!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:322
+msgid "Pah, enough of this foolishness! Forward, grunts! Gold and glory to those who bring me an enemy leader's head!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:326
+msgid "Hold the line, soldiers, and the day will be ours!"
+msgstr ""
+
+#. [message]: speaker=CF
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:330
+msgid "Fight well, for Wesnoth and for Lintanir!"
+msgstr ""
+
+#. [message]: speaker=ES
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:341
+msgid "This is taking too long, our supplies will run out!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:351
+msgid "All their chieftains are dead, we have won the day!"
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:355
+msgid "Indeed, and I do not believe they will return... Finally, this is over."
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:379
+msgid "You're nothing but a cowardly princess who fled her city's fall only to return to die there!"
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:383
+msgid "Your head will roll for all those whom you killed!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:396
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:431
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:481
+msgid "No! This cannot be! Nooooo—!"
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:400
+msgid "Die, foul monster, and know all of your men will perish like you!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:414
+msgid "You're the one who held us back in the mountains! Seems like your death didn't last... ah well, I'll ensure it does now!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:418
+msgid "No, today it is your turn to fall!"
+msgstr ""
+
+#. [message]: speaker=EP
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:435
+msgid "Finally... Their horde should not recover from this."
+msgstr ""
+
+#. [message]: speaker=BB
+#: war_and_home\scenarios\44_The_Final_Battle.cfg:468
+msgid "Fools... so be it, face me and die!"
+msgstr ""
+
+#. [scenario]: id=45_Epilogue
+#: war_and_home\scenarios\45_Epilogue.cfg:5
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:55
+msgid ""
+"With this victory and the death of Vrodar, the end of the horde had come, now that it was both leaderless and armyless. The remnants of its forces were pursued north, over the river Bork, beyond Dorest and Prestim, up to the edge of the Silent Forest and the Desert of Death.\n"
+"\n"
+"The pursuit ended there, for supply lines were quite stretched and the inhospitable lands before us would do the deed quite efficiently, leaving naught but a few survivors to report to their Great Council in Barag Gór."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:60
+msgid ""
+"With the end of the orcish menace, rebuilding could now begin, and begin it did. Lintanir in particular was a frenzied hub of activity under the direction of Lumiclya. She, much like many of her kin, was determined to return her home to its former glory.\n"
+"\n"
+"Together, they succeeded, and Lintanir became once more a source of awe within the mind of others, ruled by a compassionate and prescient queen, one who reminded many of her subjectes of valiant and courageous leaders from times long gone, those whose tales were oft sung in festivites and names bellowed as warcries, an honour she would surely soon receive."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:67
+msgid ""
+"Lumiclya would regularly send out patrols along the Listra and west of Lintanir to keep the roads safe from bandits and to quell threats before they grew to become a problem, notably keeping an eye out for the lich Mal Keshar, who dared not show his face in the Northlands for a few centuries.\n"
+"\n"
+"She would receive help with the security of these lands from a familiar source, for Oweomyr, after having inherited his family's titles, would be mandated by the Crown to assist her. He would eagerly fulfill his mission, as attested by how his vassals could often be heard grumbling he spent more time up North than managing his estates."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:74
+msgid "They had little practical reasons for such complaints, however, as his sister would masterfully take care of the house's holdings while he was away, ensuring continued prosperity for all. She led developments in multiple fields, both increasing their agricultural production by using more of their arable lands, as well as enhancing trades with other nations, whether the dwarves of Knalga or the elves of Lintanir."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:79
+msgid "She would obtain assistance with the latter from Isandir, dispatched to nearby Weldyn as a special envoy from Queen Lumiclya to help coordinate with Wesnoth's army and represent Lintanir's interests before its ally. He would oft spend much time with Merynian between royal meetings, and they seemed quite inseparable to the court."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:84
+msgid ""
+"After the war, Caror spent some time traveling the land, assisting others as he could, though he would rapidly return to the army. After some time, Oweomyr and Merynian offered him the fiefdom of Merlyc which they had received for services rendered during the war, an offer he accepted.\n"
+"\n"
+"Under his guidance, Merlyc would be rebuilt into a vibrant trade hub as well as a fortified base of operations for the royal army.\n"
+"\n"
+"All this new activity led to an economic prosperity its villagers had seldom tasted before the war, and they were quite grateful for this new feeling."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:93
+msgid "Throughout all this, Sylindë was with him, whether on the road or in the halls of their new home. She would assist the scouting operations in the region, covering in a day what a normal patrol did in a week. She would use these opportunies to watch over the wastelands to the east, often traveling besides her father."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:98
+msgid "Haldar had indeed returned to his previous occupation of protecting the villages east of the Listra. There, he spent his time traveling between them, though he ventured further west than before, often stopping in Merlyc, as always, Wolfie at his side."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:103
+msgid "He had managed to convince Anówien to head south with him, something she had refused before, as she had felt that Lintanir was in need of all possible druids. The war had however, somewhat unexpectedly, led to the rise of multiple highly skilled druids which enabled her to delegate far more than before. Now, when she was not visiting Merlyc or Lintanir, she spent her time helping Elzear breathe new life into the wastelands."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:108
+msgid "Elaessa properly rejoined the church and rose in the ranks quite fast, her dedication to others and her mastery of healing magic undeniable. She moved quite a few times, and was finally named the high priestess of Soradoc."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:113
+msgid ""
+"As for me, I continued to serve in the army and was also moved throughout the kingdom in command of various posts, before being enlisted as an advisor to His Majesty Garard I, King of Wesnoth. However, at some point I was offered command of Soradoc, and I took it, as Elaessa and I had grown annoyed with the struggle to coordinate our postings.\n"
+"\n"
+"One day, I returned with Haldar and Elaessa to the shrine in the caves, the one where she and I had fought the shadow and found the strange spirit. Though nothing remained but the bare floor, the feeling of peace still suffused this place, as though it would keep on offering a place for the weary to rest and the hunted to hide."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:120
+msgid ""
+"At Haldar's advice, I plunged the sword I had been given here in the barren stone floor. For a moment, nothing happened, the blade still and lifeless, before glowing once more and emitting a great spark of light that bathed the whole room in its warm embrace.\n"
+"\n"
+"Before us now stood the spirit, shimmering with light, yet somewhat veiled, as though he truly was naught but an echo of something long gone.\n"
+"\n"
+"<i>I thank you for this gesture, and hope that, should it ever be needed, another may find this sword and wield it in turn.</i>\n"
+"\n"
+"And with these words, the spirit disappeard, returning to wherever its resting place was. We proceeded to leave as well, unsure of what we had seen, though confident that we had done the right thing."
+msgstr ""
+
+#. [part]
+#: war_and_home\scenarios\45_Epilogue.cfg:131
+msgid "In the end, though we faced a war and hardships that we did not expect, we proved able to overcome these trials and in the end, found our own happiness in these lands."
+msgstr ""
+
+#. [scenario]: id=X1_The_Last_Shore
+#: war_and_home\scenarios\X1_The_Last_Shore.cfg:14
+msgid "The Last Shore"
 msgstr ""
 
 #. [unit]: id=WMDream, type=White Mage
@@ -5116,6 +5944,16 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=MC
+#: war_and_home\scenarios\X1_The_Last_Shore.cfg:96
+msgid "(<i>Slowly wakes up on the sand</i>) Ugh... Where am I?"
+msgstr ""
+
+#. [message]: speaker=WMDream
+#: war_and_home\scenarios\X1_The_Last_Shore.cfg:100
+msgid "Oh! Turod, you finally woke up!"
+msgstr ""
+
+#. [message]: speaker=MC
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:104
 msgid "Yes... Though this only adds a second question, who are you?"
 msgstr ""
@@ -5128,6 +5966,16 @@ msgstr ""
 #. [message]: speaker=MC
 #: war_and_home\scenarios\X1_The_Last_Shore.cfg:112
 msgid "In that case, I must thank you for your vigil."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: war_and_home\scenarios\X1_The_Last_Shore.cfg:117
+msgid "This is currently the end of the campaign. You should save here to continue when new scenarios are added through an update."
+msgstr ""
+
+#. [message]: speaker=MC
+#: war_and_home\scenarios\X1_The_Last_Shore.cfg:126
+msgid "I think it is time to go."
 msgstr ""
 
 #. [message]: speaker=WMDream
@@ -5319,10 +6167,6 @@ msgstr ""
 
 #: war_and_home\utils\characters.cfg:83
 msgid "Morain"
-msgstr ""
-
-#: war_and_home\utils\characters.cfg:99
-msgid "Sidry"
 msgstr ""
 
 #: war_and_home\utils\characters.cfg:114

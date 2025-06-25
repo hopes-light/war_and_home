@@ -1,31 +1,12 @@
-Scenario 1: Peasants stay on recall list
-Scenario 2: If units die, they die/lose all xp
+For later:
+Scenario 10: Make some sort of ending slides if the final boss is killed
+Scenario 35: Make ferry system more multiplayer-friendly? (side 3 becomes side 2 if MP)... unsure what I meant here
 Scenario 4: Review it, it's really easy
-Scenario 8: Check if early finish bonus should trigger even if all enemies are not dead
-Scenario 19: Make repeating transports (arrive-stay-leave_away cycle)
-Scenario 21: Maybe add some orcish corpses
-Scenario 32: Make human general (HL1) separate form side 1, 2
+Scenario 32: Make human general (HL1) separate from side 1, 2
              Explain why should beat enemy forces
 Scenario 33: Make autumn shyde separate from sides 1, 2
-Scenario 35: Make ferry system clearer
-             Also, make it more multiplayer-friendly (side 3 becomes side 2 if MP)
-
+Scenario "45": Maybe make a special ending slide for Wolfie (traveled often with HR, but over time started spending more and more time by the fire in Merlyc)
+Scenario "43" and "44": More banter with UL1, UL2, MK, BB -> Mostly done
 
 General: Specifically in later parts: add some stuff to liven things up (varied objectives, different mechanics, some items)
-
-Language:
-S4
-fell in our -> feel for our
-
-S5
-help to get -> help us getting
-
-Lose the Orcs
-us the main -> us that the main
-
-Into the Dark (S27)
-powere -> power
-
-Like Waves Upon The Rocks (S32)
-that what they -> than what they
-would we note -> would we not
+General: Remove warning about work-in-progress in first scenario
