@@ -10,3 +10,13 @@ Scenario "43" and "44": More banter with UL1, UL2, MK, BB -> Mostly done
 
 General: Specifically in later parts: add some stuff to liven things up (varied objectives, different mechanics, some items)
 General: Remove warning about work-in-progress in first scenario
+General: Remove HL1 and AS from their subsequent scenarios
+General: Remove early duplicate scenarios and other development stuff (attempted test modes, etc.)
+General: Battle of Carcyn -> Battle Of Carcyn (id-wise)
+
+
+For updates:
+Check all variable usage, and delete them as soon as possible
+Check if updating pictures necessary
+Contribute to wmllint -> [side] without type attribute is getting annoying
+Do aall the other fixes
