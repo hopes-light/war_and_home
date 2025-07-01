@@ -246,7 +246,7 @@ msgstr "Finir le tour... (dit l'auteur)"
 #. [scenario]: id=28_Back_From_The_Brink
 #. [scenario]: id=31_Return_To_Wesnoth
 #. [scenario]: id=32_Like_Waves_Upon_The_Rocks
-#. [scenario]: id=34_Battle_of_Carcyn
+#. [scenario]: id=34_Battle_Of_Carcyn
 #. [scenario]: id=35_Elensefar
 #. [scenario]: id=36_A_Legend_Of_The_Elves
 #. [scenario]: id=37_Flames_Over_Glamdrol
@@ -6149,7 +6149,7 @@ msgstr ""
 "Glamdrol. Venez, entrons dans la forêt, que nous puissions entamer un "
 "conseil de guerre digne de ce nom."
 
-#. [scenario]: id=34_Battle_of_Carcyn
+#. [scenario]: id=34_Battle_Of_Carcyn
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:6
 msgid "Battle Of Carcyn"
 msgstr "Bataille de Carcyn"

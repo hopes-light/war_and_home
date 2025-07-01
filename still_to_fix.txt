@@ -17,7 +17,6 @@ General: Battle of Carcyn -> Battle Of Carcyn (id-wise)
 
 
 For updates:
-Check all variable usage, and delete them as soon as possible
 Check if updating pictures necessary
 Contribute to wmllint -> [side] without type attribute is getting annoying
-Do aall the other fixes
+Do all the other fixes

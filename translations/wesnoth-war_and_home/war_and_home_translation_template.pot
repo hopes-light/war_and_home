@@ -212,7 +212,7 @@ msgstr ""
 #. [scenario]: id=28_Back_From_The_Brink
 #. [scenario]: id=31_Return_To_Wesnoth
 #. [scenario]: id=32_Like_Waves_Upon_The_Rocks
-#. [scenario]: id=34_Battle_of_Carcyn
+#. [scenario]: id=34_Battle_Of_Carcyn
 #. [scenario]: id=35_Elensefar
 #. [scenario]: id=36_A_Legend_Of_The_Elves
 #. [scenario]: id=37_Flames_Over_Glamdrol
@@ -4561,7 +4561,7 @@ msgstr ""
 msgid "It seems victories will follow indeed, human and elvish forces led by your northern princess have relieved Elensefar and are sieging Glamdrol as we speak. Come, let us head within the forest, that we may have a proper war council."
 msgstr ""
 
-#. [scenario]: id=34_Battle_of_Carcyn
+#. [scenario]: id=34_Battle_Of_Carcyn
 #: war_and_home\scenarios\34_Battle_Of_Carcyn.cfg:6
 msgid "Battle Of Carcyn"
 msgstr ""
