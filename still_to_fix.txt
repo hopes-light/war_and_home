@@ -12,6 +12,7 @@ General: Specifically in later parts: add some stuff to liven things up (varied 
 General: Remove warning about work-in-progress in first scenario
 General: Remove HL1 and AS from their subsequent scenarios
 General: Remove early duplicate scenarios and other development stuff (attempted test modes, etc.)
+General: Narrow down actually needed maps (handle "duplicates")
 General: Battle of Carcyn -> Battle Of Carcyn (id-wise)
 
 
