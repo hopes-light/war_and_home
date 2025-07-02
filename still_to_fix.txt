@@ -11,9 +11,8 @@ Scenario "43" and "44": More banter with UL1, UL2, MK, BB -> Mostly done
 General: Specifically in later parts: add some stuff to liven things up (varied objectives, different mechanics, some items)
 General: Remove warning about work-in-progress in first scenario
 General: Remove HL1 and AS from their subsequent scenarios
-General: Remove early duplicate scenarios and other development stuff (attempted test modes, etc.)
+General: Remove early duplicate scenarios (done) and other development stuff (attempted test modes, etc.)
 General: Narrow down actually needed maps (handle "duplicates")
-General: Battle of Carcyn -> Battle Of Carcyn (id-wise)
 
 
 For updates:
