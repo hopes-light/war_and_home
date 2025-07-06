@@ -1,21 +1,20 @@
-For later:
+For update:
 Scenario 10: Make some sort of ending slides if the final boss is killed
 Scenario 35: Make ferry system more multiplayer-friendly? (side 3 becomes side 2 if MP)... unsure what I meant here
 Scenario 4: Review it, it's really easy
 Scenario 32: Make human general (HL1) separate from side 1, 2
              Explain why should beat enemy forces
 Scenario 33: Make autumn shyde separate from sides 1, 2
-Scenario "45": Maybe make a special ending slide for Wolfie (traveled often with HR, but over time started spending more and more time by the fire in Merlyc)
 Scenario "43" and "44": More banter with UL1, UL2, MK, BB -> Mostly done
 
 General: Specifically in later parts: add some stuff to liven things up (varied objectives, different mechanics, some items)
-General: Remove warning about work-in-progress in first scenario
 General: Remove HL1 and AS from their subsequent scenarios
-General: Remove early duplicate scenarios (done) and other development stuff (attempted test modes, etc.)
-General: Narrow down actually needed maps (handle "duplicates")
+General: Remove development stuff that still remains, wherever some might be
+General: Translations
 
-
-For updates:
+Longer-term:
 Check if updating pictures necessary
-Contribute to wmllint -> [side] without type attribute is getting annoying
-Do all the other fixes
+Contribute to wmllint : "[side] without type attribute" is getting annoying
+
+Optional:
+Add "description_completed", "icon_completed" for the achievements
