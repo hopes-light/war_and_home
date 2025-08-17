@@ -1,3 +1,14 @@
+1.1.1:
+ - Updated _server.pbl image... forgot to do so...
+
+1.1.0:
+ - Updated to 1.18
+ - Removed development artifacts
+ - General balancing and fixes
+ - Added epilogue for Wolfie
+ - Added early epilogue (scenario 10 victory)
+ - Added achievements
+
 1.0.0:
  - Added 6 scenarios after the previous ones (4 battles), the campaign should be complete
  - Removed peasants from recall list post-scenario 1 if the enemy leader was killed
