@@ -1,8 +1,8 @@
 # Pbl file
 
-icon = "misc/blank-hex.png~BLIT(units/elves-wood/lady.png~RC(magenta>gold), 11, 1)~BLIT(units/human-loyalists/general-idle-1.png~RC(magenta>white)~FL(horizontal), -6, 0)"
+icon = "misc/blank-hex.png~BLIT(units/human-loyalists/general-leading3.png~RC(magenta>white)~FL(horizontal), -11, 2)~BLIT(units/elves-wood/lady.png~RC(magenta>gold), 11, 4)"
 title = "War and Home"
-version = "1.1.0"
+version = "1.1.1"
 author = "hopelight"
 forum_auth = true
 description = "A tale of a rookie wesnothian officer and the part he, along with those he meets on his way, plays in a war against a new orcish onslaught.
@@ -14,6 +14,7 @@ All 43 scenarios are playable.
 Please give feedback on the forums, it would be greatly appreciated.
 
 Changelog:
+    1.1.1 : Updated _server.pbl image... forgot to do so...
     1.1.0 : Updated to 1.18"
 
 [translation]
