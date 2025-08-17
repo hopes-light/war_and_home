@@ -1,19 +1,15 @@
 For update:
-Scenario 10: Make some sort of ending slides if the final boss is killed
-Scenario 35: Make ferry system more multiplayer-friendly? (side 3 becomes side 2 if MP)... unsure what I meant here
-Scenario 4: Review it, it's really easy
-Scenario 32: Make human general (HL1) separate from side 1, 2
-             Explain why should beat enemy forces
-Scenario 33: Make autumn shyde separate from sides 1, 2
+Scenario 11: Decide if achievement is for no combat with orcs or not even arrived before boats depart
+Scenario 17: Add a boat crossing between sides? -> Eh, challenge is better like this
 Scenario "43" and "44": More banter with UL1, UL2, MK, BB -> Mostly done
 
-General: Specifically in later parts: add some stuff to liven things up (varied objectives, different mechanics, some items)
-General: Remove HL1 and AS from their subsequent scenarios
-General: Remove development stuff that still remains, wherever some might be
-General: Translations
+Scenario 1: Some banter? (MC attack, CF attack)... there is some in Sc2 already
+Scenario 6: Some banter? (EP attack, EN attack)
+Scenario 12-13: Some banter? (ES attack, EA attack)
+Scenario 22-28: add fading note in objectives?
 
 Longer-term:
-Check if updating pictures necessary
+Check if updating pictures (to webp) necessary
 Contribute to wmllint : "[side] without type attribute" is getting annoying
 
 Optional:
