@@ -7,6 +7,6 @@ Intermediate level.
 All 44 scenarios are playable.
 1 or 2 players (balanced and tested only in singleplayer on normal difficulty).
 
-[Please give feedback on the forums, it would be greatly appreciated:](https://forums.wesnoth.org/viewtopic.php?t=55031)
+[Please give feedback on the forums, it would be greatly appreciated.](https://forums.wesnoth.org/viewtopic.php?t=55031)
 
 I am putting it on github to make it easier to find for others and to practice using github.
